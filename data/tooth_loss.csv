@@ -1,0 +1,1451 @@
+specimen,tooth_class,num_amtl,sockets,prop_lost,age,prob_male,genus,pop
+AMNH99.1/100,Anterior,0,12,0,37.5591283,0.5,Homo sapiens,Alaska
+AMNH99.1/100,Posterior,0,12,0,37.5591283,0.5,Homo sapiens,Alaska
+AMNH99.1/100,Premolar,0,8,0,37.5591283,0.5,Homo sapiens,Alaska
+AMNH99.1/101,Anterior,3,9,0.333333333333333,39.0329661,0.25,Homo sapiens,Alaska
+AMNH99.1/101,Posterior,5,7,0.714285714285714,39.0329661,0.25,Homo sapiens,Alaska
+AMNH99.1/101,Premolar,2,6,0.333333333333333,39.0329661,0.25,Homo sapiens,Alaska
+AMNH99.1/102,Anterior,1,12,0.083333333333333,34.8934044,0.25,Homo sapiens,Alaska
+AMNH99.1/102,Posterior,0,12,0,34.8934044,0.25,Homo sapiens,Alaska
+AMNH99.1/102,Premolar,0,8,0,34.8934044,0.25,Homo sapiens,Alaska
+AMNH99.1/103,Anterior,0,12,0,29.6004044,0.5,Homo sapiens,Alaska
+AMNH99.1/103,Posterior,0,12,0,29.6004044,0.5,Homo sapiens,Alaska
+AMNH99.1/103,Premolar,0,8,0,29.6004044,0.5,Homo sapiens,Alaska
+AMNH99.1/104,Anterior,0,12,0,44.0440145,0.25,Homo sapiens,Alaska
+AMNH99.1/104,Posterior,0,12,0,44.0440145,0.25,Homo sapiens,Alaska
+AMNH99.1/104,Premolar,0,8,0,44.0440145,0.25,Homo sapiens,Alaska
+AMNH99.1/105,Anterior,0,12,0,32.5480799,0.75,Homo sapiens,Alaska
+AMNH99.1/105,Posterior,0,12,0,32.5480799,0.75,Homo sapiens,Alaska
+AMNH99.1/105,Premolar,0,8,0,32.5480799,0.75,Homo sapiens,Alaska
+AMNH99.1/107,Anterior,1,8,0.125,56.1166683,0.5,Homo sapiens,Alaska
+AMNH99.1/107,Posterior,2,10,0.2,56.1166683,0.5,Homo sapiens,Alaska
+AMNH99.1/107,Premolar,0,7,0,56.1166683,0.5,Homo sapiens,Alaska
+AMNH99.1/109,Anterior,1,12,0.083333333333333,43.749247,0.75,Homo sapiens,Alaska
+AMNH99.1/109,Posterior,5,10,0.5,43.749247,0.75,Homo sapiens,Alaska
+AMNH99.1/109,Premolar,0,8,0,43.749247,0.75,Homo sapiens,Alaska
+AMNH99.1/110,Anterior,1,5,0.2,41.9806416,0.75,Homo sapiens,Alaska
+AMNH99.1/110,Posterior,0,6,0,41.9806416,0.75,Homo sapiens,Alaska
+AMNH99.1/110,Premolar,1,4,0.25,41.9806416,0.75,Homo sapiens,Alaska
+AMNH99.1/111,Anterior,0,12,0,42.2754092,0.5,Homo sapiens,Alaska
+AMNH99.1/111,Posterior,0,12,0,42.2754092,0.5,Homo sapiens,Alaska
+AMNH99.1/111,Premolar,0,8,0,42.2754092,0.5,Homo sapiens,Alaska
+AMNH99.1/112,Anterior,2,12,0.166666666666667,43.749247,0.25,Homo sapiens,Alaska
+AMNH99.1/112,Posterior,2,11,0.181818181818182,43.749247,0.25,Homo sapiens,Alaska
+AMNH99.1/112,Premolar,2,8,0.25,43.749247,0.25,Homo sapiens,Alaska
+AMNH99.1/160,Anterior,1,4,0.25,55,0.25,Homo sapiens,Alaska
+AMNH99.1/160,Posterior,3,5,0.6,55,0.25,Homo sapiens,Alaska
+AMNH99.1/160,Premolar,1,4,0.25,55,0.25,Homo sapiens,Alaska
+AMNH99.1/59,Anterior,6,12,0.5,48.8,0.25,Homo sapiens,Alaska
+AMNH99.1/59,Posterior,6,6,1,48.8,0.25,Homo sapiens,Alaska
+AMNH99.1/59,Premolar,2,8,0.25,48.8,0.25,Homo sapiens,Alaska
+AMNH99.1/59-B,Anterior,0,6,0,40,0.25,Homo sapiens,Alaska
+AMNH99.1/59-B,Posterior,0,6,0,40,0.25,Homo sapiens,Alaska
+AMNH99.1/59-B,Premolar,0,4,0,40,0.25,Homo sapiens,Alaska
+AMNH99.1/60,Anterior,0,6,0,37.8538959,0.5,Homo sapiens,Alaska
+AMNH99.1/60,Posterior,2,6,0.333333333333333,37.8538959,0.5,Homo sapiens,Alaska
+AMNH99.1/60,Premolar,0,4,0,37.8538959,0.5,Homo sapiens,Alaska
+AMNH99.1/61,Anterior,0,12,0,34.3166852,0.75,Homo sapiens,Alaska
+AMNH99.1/61,Posterior,0,12,0,34.3166852,0.75,Homo sapiens,Alaska
+AMNH99.1/61,Premolar,0,8,0,34.3166852,0.75,Homo sapiens,Alaska
+AMNH99.1/64,Anterior,4,12,0.333333333333333,43.1468959,0.25,Homo sapiens,Alaska
+AMNH99.1/64,Posterior,2,10,0.2,43.1468959,0.25,Homo sapiens,Alaska
+AMNH99.1/64,Premolar,0,8,0,43.1468959,0.25,Homo sapiens,Alaska
+AMNH99.1/72,Anterior,0,12,0,46.1073874,0.75,Homo sapiens,Alaska
+AMNH99.1/72,Posterior,1,11,0.090909090909091,46.1073874,0.75,Homo sapiens,Alaska
+AMNH99.1/72,Premolar,0,8,0,46.1073874,0.75,Homo sapiens,Alaska
+AMNH99.1/75-A,Anterior,0,12,0,31.3690097,0.75,Homo sapiens,Alaska
+AMNH99.1/75-A,Posterior,0,12,0,31.3690097,0.75,Homo sapiens,Alaska
+AMNH99.1/75-A,Premolar,0,8,0,31.3690097,0.75,Homo sapiens,Alaska
+AMNH99.1/77,Anterior,0,12,0,45.2,0.75,Homo sapiens,Alaska
+AMNH99.1/77,Posterior,4,11,0.363636363636364,45.2,0.75,Homo sapiens,Alaska
+AMNH99.1/77,Premolar,0,8,0,45.2,0.75,Homo sapiens,Alaska
+AMNH99.1/79,Anterior,0,6,0,39.4,0.25,Homo sapiens,Alaska
+AMNH99.1/79,Posterior,2,6,0.333333333333333,39.4,0.25,Homo sapiens,Alaska
+AMNH99.1/79,Premolar,0,4,0,39.4,0.25,Homo sapiens,Alaska
+AMNH99.1/80(a),Anterior,0,6,0,46.1073874,0.75,Homo sapiens,Alaska
+AMNH99.1/80(a),Posterior,0,6,0,46.1073874,0.75,Homo sapiens,Alaska
+AMNH99.1/80(a),Premolar,1,4,0.25,46.1073874,0.75,Homo sapiens,Alaska
+AMNH99.1/80(b),Anterior,0,6,0,43.749247,0.75,Homo sapiens,Alaska
+AMNH99.1/80(b),Posterior,0,5,0,43.749247,0.75,Homo sapiens,Alaska
+AMNH99.1/80(b),Premolar,0,4,0,43.749247,0.75,Homo sapiens,Alaska
+AMNH99.1/83-A,Anterior,3,12,0.25,32.0178426,0.25,Homo sapiens,Alaska
+AMNH99.1/83-A,Posterior,2,10,0.2,32.0178426,0.25,Homo sapiens,Alaska
+AMNH99.1/83-A,Premolar,2,8,0.25,32.0178426,0.25,Homo sapiens,Alaska
+AMNH99.1/84-A,Anterior,0,12,0,30.7794746,0.25,Homo sapiens,Alaska
+AMNH99.1/84-A,Posterior,0,12,0,30.7794746,0.25,Homo sapiens,Alaska
+AMNH99.1/84-A,Premolar,0,8,0,30.7794746,0.25,Homo sapiens,Alaska
+AMNH99.1/84-B,Anterior,4,12,0.333333333333333,48.8,0.25,Homo sapiens,Alaska
+AMNH99.1/84-B,Posterior,6,8,0.75,48.8,0.25,Homo sapiens,Alaska
+AMNH99.1/84-B,Premolar,2,8,0.25,48.8,0.25,Homo sapiens,Alaska
+AMNH99.1/84-C,Anterior,3,6,0.5,46.1073874,0.25,Homo sapiens,Alaska
+AMNH99.1/84-C,Posterior,0,6,0,46.1073874,0.25,Homo sapiens,Alaska
+AMNH99.1/84-C,Premolar,0,4,0,46.1073874,0.25,Homo sapiens,Alaska
+AMNH99.1/84-D,Anterior,0,6,0,33.137615,0.25,Homo sapiens,Alaska
+AMNH99.1/84-D,Posterior,0,6,0,33.137615,0.25,Homo sapiens,Alaska
+AMNH99.1/84-D,Premolar,0,4,0,33.137615,0.25,Homo sapiens,Alaska
+AMNH99.1/86-C,Anterior,2,12,0.166666666666667,47.2736416,0.25,Homo sapiens,Alaska
+AMNH99.1/86-C,Posterior,1,11,0.090909090909091,47.2736416,0.25,Homo sapiens,Alaska
+AMNH99.1/86-C,Premolar,2,8,0.25,47.2736416,0.25,Homo sapiens,Alaska
+AMNH99.1/86-D,Anterior,4,12,0.333333333333333,50.8236683,0.25,Homo sapiens,Alaska
+AMNH99.1/86-D,Posterior,2,8,0.25,50.8236683,0.25,Homo sapiens,Alaska
+AMNH99.1/86-D,Premolar,3,8,0.375,50.8236683,0.25,Homo sapiens,Alaska
+AMNH99.1/87,Anterior,2,12,0.166666666666667,45.2,0.75,Homo sapiens,Alaska
+AMNH99.1/87,Posterior,4,9,0.444444444444444,45.2,0.75,Homo sapiens,Alaska
+AMNH99.1/87,Premolar,2,8,0.25,45.2,0.75,Homo sapiens,Alaska
+AMNH99.1/89-A,Anterior,0,12,0,43.749247,0.75,Homo sapiens,Alaska
+AMNH99.1/89-A,Posterior,0,12,0,43.749247,0.75,Homo sapiens,Alaska
+AMNH99.1/89-A,Premolar,0,8,0,43.749247,0.75,Homo sapiens,Alaska
+AMNH99.1/89-B,Anterior,0,12,0,28.4213341,0.75,Homo sapiens,Alaska
+AMNH99.1/89-B,Posterior,0,12,0,28.4213341,0.75,Homo sapiens,Alaska
+AMNH99.1/89-B,Premolar,0,8,0,28.4213341,0.75,Homo sapiens,Alaska
+AMNH99.1/90,Anterior,3,12,0.25,55,0.75,Homo sapiens,Alaska
+AMNH99.1/90,Posterior,6,10,0.6,55,0.75,Homo sapiens,Alaska
+AMNH99.1/90,Premolar,3,8,0.375,55,0.75,Homo sapiens,Alaska
+AMNH99.1/91-A,Anterior,4,12,0.333333333333333,31.9585448,0.75,Homo sapiens,Alaska
+AMNH99.1/91-A,Posterior,6,12,0.5,31.9585448,0.75,Homo sapiens,Alaska
+AMNH99.1/91-A,Premolar,1,8,0.125,31.9585448,0.75,Homo sapiens,Alaska
+AMNH99.1/91-B,Anterior,1,12,0.083333333333333,50.8236683,0.5,Homo sapiens,Alaska
+AMNH99.1/91-B,Posterior,7,10,0.7,50.8236683,0.5,Homo sapiens,Alaska
+AMNH99.1/91-B,Premolar,1,8,0.125,50.8236683,0.5,Homo sapiens,Alaska
+AMNH99.1/94,Anterior,0,12,0,34.3166852,0.25,Homo sapiens,Alaska
+AMNH99.1/94,Posterior,0,12,0,34.3166852,0.25,Homo sapiens,Alaska
+AMNH99.1/94,Premolar,0,8,0,34.3166852,0.25,Homo sapiens,Alaska
+AMNH99.1/96-A,Anterior,0,12,0,37.8538959,0.75,Homo sapiens,Alaska
+AMNH99.1/96-A,Posterior,0,12,0,37.8538959,0.75,Homo sapiens,Alaska
+AMNH99.1/96-A,Premolar,0,8,0,37.8538959,0.75,Homo sapiens,Alaska
+AMNH99.1/97,Anterior,4,12,0.333333333333333,36.6748257,0.75,Homo sapiens,Alaska
+AMNH99.1/97,Posterior,3,10,0.3,36.6748257,0.75,Homo sapiens,Alaska
+AMNH99.1/97,Premolar,1,8,0.125,36.6748257,0.75,Homo sapiens,Alaska
+AMNH99.1/98,Anterior,0,12,0,30.7794746,0.75,Homo sapiens,Alaska
+AMNH99.1/98,Posterior,1,12,0.083333333333333,30.7794746,0.75,Homo sapiens,Alaska
+AMNH99.1/98,Premolar,1,8,0.125,30.7794746,0.75,Homo sapiens,Alaska
+AMNH99.1/99,Anterior,0,12,0,31.9585448,0.25,Homo sapiens,Alaska
+AMNH99.1/99,Posterior,0,12,0,31.9585448,0.25,Homo sapiens,Alaska
+AMNH99.1/99,Premolar,0,8,0,31.9585448,0.25,Homo sapiens,Alaska
+BM1868.4.16.2,Anterior,0,12,0,12.47378,1,Pongo,Borneo
+BM1868.4.16.2,Posterior,0,12,0,12.47378,1,Pongo,Borneo
+BM1868.4.16.2,Premolar,0,8,0,12.47378,1,Pongo,Borneo
+BM1884.10.30.1,Anterior,0,6,0,13.686453,1,Pongo,Borneo
+BM1884.10.30.1,Posterior,0,6,0,13.686453,1,Pongo,Borneo
+BM1884.10.30.1,Premolar,0,4,0,13.686453,1,Pongo,Borneo
+BM1884.10.30.2,Anterior,2,12,0.166666666666667,13.686453,1,Pongo,Borneo
+BM1884.10.30.2,Posterior,0,12,0,13.686453,1,Pongo,Borneo
+BM1884.10.30.2,Premolar,0,8,0,13.686453,1,Pongo,Borneo
+BM1886.12.20.10,Anterior,0,12,0,14.1715222,1,Pongo,Borneo
+BM1886.12.20.10,Posterior,0,12,0,14.1715222,1,Pongo,Borneo
+BM1886.12.20.10,Premolar,0,8,0,14.1715222,1,Pongo,Borneo
+BM1898.2.28.11,Anterior,0,12,0,13.9289876,1,Pongo,Borneo
+BM1898.2.28.11,Posterior,0,12,0,13.9289876,1,Pongo,Borneo
+BM1898.2.28.11,Premolar,0,8,0,13.9289876,1,Pongo,Borneo
+BM1899.11.6.1,Anterior,0,12,0,17.1217143,0,Papio,Arabia
+BM1899.11.6.1,Posterior,0,12,0,17.1217143,0,Papio,Arabia
+BM1899.11.6.1,Premolar,0,8,0,17.1217143,0,Papio,Arabia
+BM1899.6.10.2,Anterior,0,12,0,18.5922731,1,Papio,East Africa
+BM1899.6.10.2,Posterior,0,12,0,18.5922731,1,Papio,East Africa
+BM1899.6.10.2,Premolar,0,8,0,18.5922731,1,Papio,East Africa
+BM1899.7.8.1,Anterior,0,12,0,23.0253446,1,Papio,East Africa
+BM1899.7.8.1,Posterior,0,12,0,23.0253446,1,Papio,East Africa
+BM1899.7.8.1,Premolar,0,8,0,23.0253446,1,Papio,East Africa
+BM1900.3.18.1,Anterior,0,12,0,18.5922731,1,Papio,East Africa
+BM1900.3.18.1,Posterior,0,12,0,18.5922731,1,Papio,East Africa
+BM1900.3.18.1,Premolar,0,8,0,18.5922731,1,Papio,East Africa
+BM1900.6.28.1,Anterior,0,12,0,11.454619,1,Papio,Arabia
+BM1900.6.28.1,Posterior,0,12,0,11.454619,1,Papio,Arabia
+BM1900.6.28.1,Premolar,0,8,0,11.454619,1,Papio,Arabia
+BM1901.2.13.1,Anterior,0,12,0,18.9952796,1,Papio,West Africa
+BM1901.2.13.1,Posterior,0,12,0,18.9952796,1,Papio,West Africa
+BM1901.2.13.1,Premolar,0,8,0,18.9952796,1,Papio,West Africa
+BM1901.8.9.23,Anterior,0,12,0,18.5922731,0,Papio,East Africa
+BM1901.8.9.23,Posterior,0,12,0,18.5922731,0,Papio,East Africa
+BM1901.8.9.23,Premolar,0,8,0,18.5922731,0,Papio,East Africa
+BM1902.11.22.1,Anterior,0,12,0,12.485,1,Papio,Arabia
+BM1902.11.22.1,Posterior,0,12,0,12.485,1,Papio,Arabia
+BM1902.11.22.1,Premolar,0,8,0,12.485,1,Papio,Arabia
+BM1902.9.2.1,Anterior,0,12,0,19.8012926,1,Papio,East Africa
+BM1902.9.2.1,Posterior,0,12,0,19.8012926,1,Papio,East Africa
+BM1902.9.2.1,Premolar,0,8,0,19.8012926,1,Papio,East Africa
+BM1902.9.9.3,Anterior,0,12,0,22.6223381,1,Papio,East Africa
+BM1902.9.9.3,Posterior,0,9,0,22.6223381,1,Papio,East Africa
+BM1902.9.9.3,Premolar,0,8,0,22.6223381,1,Papio,East Africa
+BM1904.11.5.2,Anterior,0,12,0,21.4133186,1,Papio,East Africa
+BM1904.11.5.2,Posterior,0,12,0,21.4133186,1,Papio,East Africa
+BM1904.11.5.2,Premolar,0,8,0,21.4133186,1,Papio,East Africa
+BM1904.8.2.1,Anterior,0,12,0,12.485,1,Papio,Arabia
+BM1904.8.2.1,Posterior,0,12,0,12.485,1,Papio,Arabia
+BM1904.8.2.1,Premolar,0,8,0,12.485,1,Papio,Arabia
+BM1904.8.2.3,Anterior,0,12,0,17.1217143,1,Papio,East Africa
+BM1904.8.2.3,Posterior,0,12,0,17.1217143,1,Papio,East Africa
+BM1904.8.2.3,Premolar,0,8,0,17.1217143,1,Papio,East Africa
+BM1905.5.10.1,Anterior,0,12,0,21.8163251,1,Papio,West Africa
+BM1905.5.10.1,Posterior,0,12,0,21.8163251,1,Papio,West Africa
+BM1905.5.10.1,Premolar,0,8,0,21.8163251,1,Papio,West Africa
+BM1906.11.1.6,Anterior,0,12,0,20.2042991,1,Papio,East Africa
+BM1906.11.1.6,Posterior,0,12,0,20.2042991,1,Papio,East Africa
+BM1906.11.1.6,Premolar,0,8,0,20.2042991,1,Papio,East Africa
+BM1907.7.8.11,Anterior,0,12,0,19.8012926,1,Papio,Central Africa
+BM1907.7.8.11,Posterior,0,12,0,19.8012926,1,Papio,Central Africa
+BM1907.7.8.11,Premolar,0,8,0,19.8012926,1,Papio,Central Africa
+BM1908.7.17.1,Anterior,0,6,0,16.5968682,1,Pongo,Borneo
+BM1908.7.17.1,Posterior,0,6,0,16.5968682,1,Pongo,Borneo
+BM1908.7.17.1,Premolar,0,4,0,16.5968682,1,Pongo,Borneo
+BM1908.8.9.41,Anterior,0,6,0,19.3982861,1,Papio,East Africa
+BM1908.8.9.41,Posterior,0,6,0,19.3982861,1,Papio,East Africa
+BM1908.8.9.41,Premolar,0,4,0,19.3982861,1,Papio,East Africa
+BM1908.8.9.42,Anterior,0,12,0,23.8313576,0,Papio,East Africa
+BM1908.8.9.42,Posterior,0,12,0,23.8313576,0,Papio,East Africa
+BM1908.8.9.42,Premolar,0,8,0,23.8313576,0,Papio,East Africa
+BM1909.6.11,Anterior,0,12,0,14.0305714,1,Papio,East Africa
+BM1909.6.11,Posterior,0,12,0,14.0305714,1,Papio,East Africa
+BM1909.6.11,Premolar,0,8,0,14.0305714,1,Papio,East Africa
+BM1910.10.3.1,Anterior,0,12,0,13.0001905,1,Papio,East Africa
+BM1910.10.3.1,Posterior,0,9,0,13.0001905,1,Papio,East Africa
+BM1910.10.3.1,Premolar,0,7,0,13.0001905,1,Papio,East Africa
+BM1911.12.1.1,Anterior,0,12,0,18.1892666,1,Papio,East Africa
+BM1911.12.1.1,Posterior,0,12,0,18.1892666,1,Papio,East Africa
+BM1911.12.1.1,Premolar,0,8,0,18.1892666,1,Papio,East Africa
+BM1913.10.18.2,Anterior,0,12,0,19.3982861,1,Papio,East Africa
+BM1913.10.18.2,Posterior,0,12,0,19.3982861,1,Papio,East Africa
+BM1913.10.18.2,Premolar,1,8,0.125,19.3982861,1,Papio,East Africa
+BM1913.10.18.3,Anterior,0,6,0,24.2343641,1,Papio,East Africa
+BM1913.10.18.3,Posterior,0,6,0,24.2343641,1,Papio,East Africa
+BM1913.10.18.3,Premolar,0,4,0,24.2343641,1,Papio,East Africa
+BM1914.3.8.2,Anterior,0,12,0,26.6524031,0,Papio,East Africa
+BM1914.3.8.2,Posterior,0,12,0,26.6524031,0,Papio,East Africa
+BM1914.3.8.2,Premolar,0,8,0,26.6524031,0,Papio,East Africa
+BM1918.11.8.1,Anterior,0,6,0,22.6223381,1,Papio,East Africa
+BM1918.11.8.1,Posterior,0,6,0,22.6223381,1,Papio,East Africa
+BM1918.11.8.1,Premolar,0,4,0,22.6223381,1,Papio,East Africa
+BM1922.12.19.6,Anterior,0,12,0,18.1892666,1,Papio,Central Africa
+BM1922.12.19.6,Posterior,0,12,0,18.1892666,1,Papio,Central Africa
+BM1922.12.19.6,Premolar,0,8,0,18.1892666,1,Papio,Central Africa
+BM1923.3.4.3,Anterior,0,12,0,28.2644291,0,Papio,East Africa
+BM1923.3.4.3,Posterior,0,12,0,28.2644291,0,Papio,East Africa
+BM1923.3.4.3,Premolar,0,8,0,28.2644291,0,Papio,East Africa
+BM1924.2.25.1,Anterior,0,12,0,20.6073056,1,Papio,East Africa
+BM1924.2.25.1,Posterior,0,12,0,20.6073056,1,Papio,East Africa
+BM1924.2.25.1,Premolar,0,8,0,20.6073056,1,Papio,East Africa
+BM1924.8.6.15,Anterior,0,12,0,19.3982861,1,Papio,West Africa
+BM1924.8.6.15,Posterior,0,12,0,19.3982861,1,Papio,West Africa
+BM1924.8.6.15,Premolar,0,8,0,19.3982861,1,Papio,West Africa
+BM1924.8.6.16,Anterior,0,12,0,24.2343641,0,Papio,West Africa
+BM1924.8.6.16,Posterior,0,12,0,24.2343641,0,Papio,West Africa
+BM1924.8.6.16,Premolar,0,8,0,24.2343641,0,Papio,West Africa
+BM1925.5.12.1,Anterior,0,12,0,21.8163251,1,Papio,West Africa
+BM1925.5.12.1,Posterior,0,12,0,21.8163251,1,Papio,West Africa
+BM1925.5.12.1,Premolar,0,8,0,21.8163251,1,Papio,West Africa
+BM1927.8.14.1,Anterior,0,6,0,16.0913333,0,Papio,East Africa
+BM1927.8.14.1,Posterior,0,6,0,16.0913333,0,Papio,East Africa
+BM1927.8.14.1,Premolar,0,4,0,16.0913333,0,Papio,East Africa
+BM1930.12.1.2,Anterior,0,12,0,20.2042991,0,Papio,East Africa
+BM1930.12.1.2,Posterior,0,12,0,20.2042991,0,Papio,East Africa
+BM1930.12.1.2,Premolar,0,8,0,20.2042991,0,Papio,East Africa
+BM1931.4.1.1,Anterior,0,12,0,19.3982861,1,Papio,East Africa
+BM1931.4.1.1,Posterior,0,12,0,19.3982861,1,Papio,East Africa
+BM1931.4.1.1,Premolar,0,8,0,19.3982861,1,Papio,East Africa
+BM1932.7.6.1,Anterior,0,12,0,13.515381,1,Papio,East Africa
+BM1932.7.6.1,Posterior,0,12,0,13.515381,1,Papio,East Africa
+BM1932.7.6.1,Premolar,0,8,0,13.515381,1,Papio,East Africa
+BM1934.11.20.1,Anterior,0,12,0,18.5922731,1,Papio,East Africa
+BM1934.11.20.1,Posterior,0,12,0,18.5922731,1,Papio,East Africa
+BM1934.11.20.1,Premolar,0,8,0,18.5922731,1,Papio,East Africa
+BM1935.10.22.24,Anterior,0,6,0,21.0103121,0,Papio,West Africa
+BM1935.10.22.24,Posterior,0,6,0,21.0103121,0,Papio,West Africa
+BM1935.10.22.24,Premolar,0,4,0,21.0103121,0,Papio,West Africa
+BM1935.2.14.1,Anterior,0,12,0,19.3982861,1,Papio,East Africa
+BM1935.2.14.1,Posterior,0,12,0,19.3982861,1,Papio,East Africa
+BM1935.2.14.1,Premolar,0,8,0,19.3982861,1,Papio,East Africa
+BM1936.12.28.1,Anterior,0,12,0,18.5922731,1,Papio,East Africa
+BM1936.12.28.1,Posterior,0,12,0,18.5922731,1,Papio,East Africa
+BM1936.12.28.1,Premolar,0,8,0,18.5922731,1,Papio,East Africa
+BM1936.12.28.2,Anterior,0,12,0,18.5922731,1,Papio,East Africa
+BM1936.12.28.2,Posterior,0,12,0,18.5922731,1,Papio,East Africa
+BM1936.12.28.2,Premolar,0,8,0,18.5922731,1,Papio,East Africa
+BM1938.7.17.1,Anterior,1,12,0.083333333333333,32.6684551,1,Papio,Central Africa
+BM1938.7.17.1,Posterior,0,12,0,32.6684551,1,Papio,Central Africa
+BM1938.7.17.1,Premolar,0,8,0,32.6684551,1,Papio,Central Africa
+BM1939.1005,Anterior,0,6,0,14.1715222,1,Pongo,Borneo
+BM1939.1005,Posterior,0,6,0,14.1715222,1,Pongo,Borneo
+BM1939.1005,Premolar,0,4,0,14.1715222,1,Pongo,Borneo
+BM1939.1006,Anterior,0,6,0,11.2611071,1,Pongo,Borneo
+BM1939.1006,Posterior,0,6,0,11.2611071,1,Pongo,Borneo
+BM1939.1006,Premolar,0,4,0,11.2611071,1,Pongo,Borneo
+BM1939.1007,Anterior,0,12,0,9.80589949,0,Pongo,Borneo
+BM1939.1007,Posterior,0,12,0,9.80589949,0,Pongo,Borneo
+BM1939.1007,Premolar,0,8,0,9.80589949,0,Pongo,Borneo
+BM1939.1008,Anterior,0,12,0,11.2611071,0,Pongo,Borneo
+BM1939.1008,Posterior,0,12,0,11.2611071,0,Pongo,Borneo
+BM1939.1008,Premolar,0,8,0,11.2611071,0,Pongo,Borneo
+BM1939.1021,Anterior,0,12,0,20.6073056,1,Papio,West Africa
+BM1939.1021,Posterior,0,12,0,20.6073056,1,Papio,West Africa
+BM1939.1021,Premolar,0,8,0,20.6073056,1,Papio,West Africa
+BM1962.25,Anterior,0,12,0,19.8012926,0,Papio,East Africa
+BM1962.25,Posterior,0,12,0,19.8012926,0,Papio,East Africa
+BM1962.25,Premolar,0,8,0,19.8012926,0,Papio,East Africa
+BM1964.2174,Anterior,0,12,0,19.3982861,0,Papio,East Africa
+BM1964.2174,Posterior,0,12,0,19.3982861,0,Papio,East Africa
+BM1964.2174,Premolar,0,8,0,19.3982861,0,Papio,East Africa
+BM1971.2353,Anterior,0,6,0,22.6223381,1,Papio,West Africa
+BM1971.2353,Posterior,0,6,0,22.6223381,1,Papio,West Africa
+BM1971.2353,Premolar,0,4,0,22.6223381,1,Papio,West Africa
+BM1971.2354,Anterior,0,7,0,21.0103121,1,Papio,West Africa
+BM1971.2354,Posterior,0,6,0,21.0103121,1,Papio,West Africa
+BM1971.2354,Premolar,0,4,0,21.0103121,1,Papio,West Africa
+BM1976.1408,Anterior,0,12,0,16.3543336,0,Pongo,Borneo
+BM1976.1408,Posterior,0,13,0,16.3543336,0,Pongo,Borneo
+BM1976.1408,Premolar,0,8,0,16.3543336,0,Pongo,Borneo
+BM1976.1409,Anterior,0,12,0,13.9289876,0,Pongo,Borneo
+BM1976.1409,Posterior,0,12,0,13.9289876,0,Pongo,Borneo
+BM1976.1409,Premolar,0,8,0,13.9289876,0,Pongo,Borneo
+BM1976.1415,Anterior,0,12,0,12.2312454,0,Pongo,Borneo
+BM1976.1415,Posterior,0,12,0,12.2312454,0,Pongo,Borneo
+BM1976.1415,Premolar,0,8,0,12.2312454,0,Pongo,Borneo
+BM1976.1416,Anterior,0,12,0,11.5036417,0,Pongo,Borneo
+BM1976.1416,Posterior,0,11,0,11.5036417,0,Pongo,Borneo
+BM1976.1416,Premolar,0,8,0,11.5036417,0,Pongo,Borneo
+BM1976.1417,Anterior,0,6,0,11.2611071,0,Pongo,Borneo
+BM1976.1417,Posterior,0,7,0,11.2611071,0,Pongo,Borneo
+BM1976.1417,Premolar,0,3,0,11.2611071,0,Pongo,Borneo
+BM1976.1418,Anterior,0,12,0,11.2611071,0,Pongo,Borneo
+BM1976.1418,Posterior,0,12,0,11.2611071,0,Pongo,Borneo
+BM1976.1418,Premolar,0,8,0,11.2611071,0,Pongo,Borneo
+BM1976.1419,Anterior,0,12,0,11.2611071,0,Pongo,Borneo
+BM1976.1419,Posterior,0,12,0,11.2611071,0,Pongo,Borneo
+BM1976.1419,Premolar,0,8,0,11.2611071,0,Pongo,Borneo
+BM1976.1420,Anterior,0,10,0,11.0185725,0,Pongo,Borneo
+BM1976.1420,Posterior,0,12,0,11.0185725,0,Pongo,Borneo
+BM1976.1420,Premolar,0,8,0,11.0185725,0,Pongo,Borneo
+BM1976.1421,Anterior,0,12,0,10.7760379,0,Pongo,Borneo
+BM1976.1421,Posterior,0,12,0,10.7760379,0,Pongo,Borneo
+BM1976.1421,Premolar,0,8,0,10.7760379,0,Pongo,Borneo
+BM1976.1422,Anterior,0,12,0,11.7461763,0,Pongo,Borneo
+BM1976.1422,Posterior,0,12,0,11.7461763,0,Pongo,Borneo
+BM1976.1422,Premolar,0,8,0,11.7461763,0,Pongo,Borneo
+BM1976.1423,Anterior,0,12,0,11.2611071,0,Pongo,Borneo
+BM1976.1423,Posterior,0,12,0,11.2611071,0,Pongo,Borneo
+BM1976.1423,Premolar,0,8,0,11.2611071,0,Pongo,Borneo
+BM1976.1424,Anterior,0,12,0,13.686453,1,Pongo,Borneo
+BM1976.1424,Posterior,0,12,0,13.686453,1,Pongo,Borneo
+BM1976.1424,Premolar,0,8,0,13.686453,1,Pongo,Borneo
+BM1976.1425,Anterior,0,12,0,11.5036417,1,Pongo,Borneo
+BM1976.1425,Posterior,0,13,0,11.5036417,1,Pongo,Borneo
+BM1976.1425,Premolar,0,8,0,11.5036417,1,Pongo,Borneo
+BM1976.1426,Anterior,0,12,0,11.9887109,1,Pongo,Borneo
+BM1976.1426,Posterior,0,12,0,11.9887109,1,Pongo,Borneo
+BM1976.1426,Premolar,0,8,0,11.9887109,1,Pongo,Borneo
+BM1976.1427,Anterior,0,12,0,14.4140568,0,Pongo,Borneo
+BM1976.1427,Posterior,0,12,0,14.4140568,0,Pongo,Borneo
+BM1976.1427,Premolar,0,8,0,14.4140568,0,Pongo,Borneo
+BM1976.1428,Anterior,0,12,0,12.7163146,1,Pongo,Borneo
+BM1976.1428,Posterior,0,12,0,12.7163146,1,Pongo,Borneo
+BM1976.1428,Premolar,0,8,0,12.7163146,1,Pongo,Borneo
+BM1976.1429,Anterior,0,12,0,9.80589949,0.5,Pongo,Borneo
+BM1976.1429,Posterior,0,12,0,9.80589949,0.5,Pongo,Borneo
+BM1976.1429,Premolar,0,8,0,9.80589949,0.5,Pongo,Borneo
+BM1976.1430,Anterior,0,12,0,10.5335033,0,Pongo,Borneo
+BM1976.1430,Posterior,0,12,0,10.5335033,0,Pongo,Borneo
+BM1976.1430,Premolar,0,8,0,10.5335033,0,Pongo,Borneo
+BM1976.1431,Anterior,0,12,0,12.47378,1,Pongo,Borneo
+BM1976.1431,Posterior,0,12,0,12.47378,1,Pongo,Borneo
+BM1976.1431,Premolar,0,8,0,12.47378,1,Pongo,Borneo
+BM1976.1434,Anterior,0,12,0,11.5036417,1,Pongo,Borneo
+BM1976.1434,Posterior,0,12,0,11.5036417,1,Pongo,Borneo
+BM1976.1434,Premolar,0,8,0,11.5036417,1,Pongo,Borneo
+BM1976.1435,Anterior,0,12,0,9.0782957,1,Pongo,Borneo
+BM1976.1435,Posterior,0,12,0,9.0782957,1,Pongo,Borneo
+BM1976.1435,Premolar,0,8,0,9.0782957,1,Pongo,Borneo
+BM1976.1436,Anterior,0,12,0,10.7760379,1,Pongo,Borneo
+BM1976.1436,Posterior,0,12,0,10.7760379,1,Pongo,Borneo
+BM1976.1436,Premolar,0,8,0,10.7760379,1,Pongo,Borneo
+BM1976.1437,Anterior,0,6,0,11.2611071,1,Pongo,Borneo
+BM1976.1437,Posterior,0,6,0,11.2611071,1,Pongo,Borneo
+BM1976.1437,Premolar,0,4,0,11.2611071,1,Pongo,Borneo
+BM1976.1438,Anterior,0,6,0,8.83576111,1,Pongo,Borneo
+BM1976.1438,Posterior,0,6,0,8.83576111,1,Pongo,Borneo
+BM1976.1438,Premolar,0,4,0,8.83576111,1,Pongo,Borneo
+BM1976.1439,Anterior,0,12,0,8.59322651,1,Pongo,Borneo
+BM1976.1439,Posterior,0,12,0,8.59322651,1,Pongo,Borneo
+BM1976.1439,Premolar,0,8,0,8.59322651,1,Pongo,Borneo
+BM1976.1440,Anterior,0,12,0,12.2312454,1,Pongo,Borneo
+BM1976.1440,Posterior,0,12,0,12.2312454,1,Pongo,Borneo
+BM1976.1440,Premolar,0,8,0,12.2312454,1,Pongo,Borneo
+BM1976.1442,Anterior,0,12,0,10.7760379,1,Pongo,Borneo
+BM1976.1442,Posterior,0,12,0,10.7760379,1,Pongo,Borneo
+BM1976.1442,Premolar,0,8,0,10.7760379,1,Pongo,Borneo
+BM1976.1443,Anterior,0,12,0,11.7461763,1,Pongo,Borneo
+BM1976.1443,Posterior,0,14,0,11.7461763,1,Pongo,Borneo
+BM1976.1443,Premolar,0,8,0,11.7461763,1,Pongo,Borneo
+BM50a,Anterior,0,12,0,13.0001905,1,Papio,East Africa
+BM50a,Posterior,0,12,0,13.0001905,1,Papio,East Africa
+BM50a,Premolar,0,8,0,13.0001905,1,Papio,East Africa
+BRK125458,Anterior,0,6,0,29.1041325,0.25,Homo sapiens,Native Californian
+BRK125458,Posterior,1,12,0.083333333333333,29.1041325,0.25,Homo sapiens,Native Californian
+BRK125458,Premolar,0,6,0,29.1041325,0.25,Homo sapiens,Native Californian
+BRK125462,Anterior,1,12,0.083333333333333,48.4791205,0.25,Homo sapiens,Native Californian
+BRK125462,Posterior,7,12,0.583333333333333,48.4791205,0.25,Homo sapiens,Native Californian
+BRK125462,Premolar,0,8,0,48.4791205,0.25,Homo sapiens,Native Californian
+BRK125598,Anterior,0,11,0,27.6373976,0.75,Homo sapiens,Native Californian
+BRK125598,Posterior,0,9,0,27.6373976,0.75,Homo sapiens,Native Californian
+BRK125598,Premolar,0,5,0,27.6373976,0.75,Homo sapiens,Native Californian
+BRK125610,Anterior,0,12,0,23.0458795,0.5,Homo sapiens,Native Californian
+BRK125610,Posterior,1,11,0.090909090909091,23.0458795,0.5,Homo sapiens,Native Californian
+BRK125610,Premolar,0,8,0,23.0458795,0.5,Homo sapiens,Native Californian
+BRK125660,Anterior,0,12,0,51.5,0.75,Homo sapiens,Native Californian
+BRK125660,Posterior,4,11,0.363636363636364,51.5,0.75,Homo sapiens,Native Californian
+BRK125660,Premolar,1,8,0.125,51.5,0.75,Homo sapiens,Native Californian
+BRK125661,Anterior,0,12,0,32.3564578,0.75,Homo sapiens,Native Californian
+BRK125661,Posterior,0,12,0,32.3564578,0.75,Homo sapiens,Native Californian
+BRK125661,Premolar,0,8,0,32.3564578,0.75,Homo sapiens,Native Californian
+BRK125666,Anterior,0,6,0,36.5653494,0.25,Homo sapiens,Native Californian
+BRK125666,Posterior,0,6,0,36.5653494,0.25,Homo sapiens,Native Californian
+BRK125666,Premolar,0,4,0,36.5653494,0.25,Homo sapiens,Native Californian
+BRK125670,Anterior,1,10,0.1,35.8000964,0.5,Homo sapiens,Native Californian
+BRK125670,Posterior,0,7,0,35.8000964,0.5,Homo sapiens,Native Californian
+BRK125670,Premolar,0,6,0,35.8000964,0.5,Homo sapiens,Native Californian
+BRK125675,Anterior,1,12,0.083333333333333,36.9479759,0.5,Homo sapiens,Native Californian
+BRK125675,Posterior,4,12,0.333333333333333,36.9479759,0.5,Homo sapiens,Native Californian
+BRK125675,Premolar,0,9,0,36.9479759,0.5,Homo sapiens,Native Californian
+BRK125676,Anterior,0,9,0,36.7566627,0.75,Homo sapiens,Native Californian
+BRK125676,Posterior,0,12,0,36.7566627,0.75,Homo sapiens,Native Californian
+BRK125676,Premolar,0,8,0,36.7566627,0.75,Homo sapiens,Native Californian
+BRK125678,Anterior,0,12,0,39.6263614,0.75,Homo sapiens,Native Californian
+BRK125678,Posterior,1,11,0.090909090909091,39.6263614,0.75,Homo sapiens,Native Californian
+BRK125678,Premolar,2,8,0.25,39.6263614,0.75,Homo sapiens,Native Californian
+BRK125679,Anterior,0,12,0,32.7390843,0.75,Homo sapiens,Native Californian
+BRK125679,Posterior,0,12,0,32.7390843,0.75,Homo sapiens,Native Californian
+BRK125679,Premolar,0,8,0,32.7390843,0.75,Homo sapiens,Native Californian
+BRK125800,Anterior,0,10,0,28.5301928,0.75,Homo sapiens,Native Californian
+BRK125800,Posterior,0,12,0,28.5301928,0.75,Homo sapiens,Native Californian
+BRK125800,Premolar,0,7,0,28.5301928,0.75,Homo sapiens,Native Californian
+BRK125802,Anterior,0,7,0,36.7566627,0.75,Homo sapiens,Native Californian
+BRK125802,Posterior,2,11,0.181818181818182,36.7566627,0.75,Homo sapiens,Native Californian
+BRK125802,Premolar,1,8,0.125,36.7566627,0.75,Homo sapiens,Native Californian
+BRK125810,Anterior,0,12,0,30.5070964,0.75,Homo sapiens,Native Californian
+BRK125810,Posterior,1,12,0.083333333333333,30.5070964,0.75,Homo sapiens,Native Californian
+BRK125810,Premolar,0,8,0,30.5070964,0.75,Homo sapiens,Native Californian
+BRK125811,Anterior,0,10,0,34.6522169,0.75,Homo sapiens,Native Californian
+BRK125811,Posterior,0,11,0,34.6522169,0.75,Homo sapiens,Native Californian
+BRK125811,Premolar,0,7,0,34.6522169,0.75,Homo sapiens,Native Californian
+BRK125821,Anterior,0,12,0,37.1392892,0.75,Homo sapiens,Native Californian
+BRK125821,Posterior,0,12,0,37.1392892,0.75,Homo sapiens,Native Californian
+BRK125821,Premolar,0,8,0,37.1392892,0.75,Homo sapiens,Native Californian
+BRK125822,Anterior,0,12,0,30.3157831,0.25,Homo sapiens,Native Californian
+BRK125822,Posterior,0,12,0,30.3157831,0.25,Homo sapiens,Native Californian
+BRK125822,Premolar,0,8,0,30.3157831,0.25,Homo sapiens,Native Californian
+BRK125827,Anterior,0,12,0,27.5736265,0.75,Homo sapiens,Native Californian
+BRK125827,Posterior,0,12,0,27.5736265,0.75,Homo sapiens,Native Californian
+BRK125827,Premolar,0,8,0,27.5736265,0.75,Homo sapiens,Native Californian
+BRK125832,Anterior,0,6,0,45.6,0.75,Homo sapiens,Native Californian
+BRK125832,Posterior,2,6,0.333333333333333,45.6,0.75,Homo sapiens,Native Californian
+BRK125832,Premolar,0,4,0,45.6,0.75,Homo sapiens,Native Californian
+BRK126049,Anterior,0,12,0,29.2954458,0.5,Homo sapiens,Native Californian
+BRK126049,Posterior,0,11,0,29.2954458,0.5,Homo sapiens,Native Californian
+BRK126049,Premolar,0,8,0,29.2954458,0.5,Homo sapiens,Native Californian
+BRK126054,Anterior,0,6,0,23.6198193,0.25,Homo sapiens,Native Californian
+BRK126054,Posterior,0,5,0,23.6198193,0.25,Homo sapiens,Native Californian
+BRK126054,Premolar,0,4,0,23.6198193,0.25,Homo sapiens,Native Californian
+BRK126076,Anterior,0,6,0,35.8000964,0.5,Homo sapiens,Native Californian
+BRK126076,Posterior,0,6,0,35.8000964,0.5,Homo sapiens,Native Californian
+BRK126076,Premolar,0,4,0,35.8000964,0.5,Homo sapiens,Native Californian
+BRK126087,Anterior,0,12,0,20.1761807,0.5,Homo sapiens,Native Californian
+BRK126087,Posterior,0,12,0,20.1761807,0.5,Homo sapiens,Native Californian
+BRK126087,Premolar,0,8,0,20.1761807,0.5,Homo sapiens,Native Californian
+BRK126089,Anterior,1,12,0.083333333333333,26.6808313,0.75,Homo sapiens,Native Californian
+BRK126089,Posterior,3,12,0.25,26.6808313,0.75,Homo sapiens,Native Californian
+BRK126089,Premolar,0,8,0,26.6808313,0.75,Homo sapiens,Native Californian
+BRK126092,Anterior,0,12,0,37.5219157,0.75,Homo sapiens,Native Californian
+BRK126092,Posterior,0,12,0,37.5219157,0.75,Homo sapiens,Native Californian
+BRK126092,Premolar,1,8,0.125,37.5219157,0.75,Homo sapiens,Native Californian
+BRK126094,Anterior,0,12,0,25.9155783,0.75,Homo sapiens,Native Californian
+BRK126094,Posterior,0,12,0,25.9155783,0.75,Homo sapiens,Native Californian
+BRK126094,Premolar,0,8,0,25.9155783,0.75,Homo sapiens,Native Californian
+BRK126100,Anterior,0,12,0,25.0865542,0.25,Homo sapiens,Native Californian
+BRK126100,Posterior,4,12,0.333333333333333,25.0865542,0.25,Homo sapiens,Native Californian
+BRK126100,Premolar,3,8,0.375,25.0865542,0.25,Homo sapiens,Native Californian
+BRK126104,Anterior,0,12,0,23.6198193,0.75,Homo sapiens,Native Californian
+BRK126104,Posterior,0,12,0,23.6198193,0.75,Homo sapiens,Native Californian
+BRK126104,Premolar,0,8,0,23.6198193,0.75,Homo sapiens,Native Californian
+BRK126107,Anterior,1,12,0.083333333333333,23.6198193,0.25,Homo sapiens,Native Californian
+BRK126107,Posterior,4,12,0.333333333333333,23.6198193,0.25,Homo sapiens,Native Californian
+BRK126107,Premolar,0,8,0,23.6198193,0.25,Homo sapiens,Native Californian
+BRK126113,Anterior,0,12,0,32.9941687,0.75,Homo sapiens,Native Californian
+BRK126113,Posterior,0,12,0,32.9941687,0.75,Homo sapiens,Native Californian
+BRK126113,Premolar,1,8,0.125,32.9941687,0.75,Homo sapiens,Native Californian
+BRK126117,Anterior,0,12,0,26.2982048,0.25,Homo sapiens,Native Californian
+BRK126117,Posterior,0,12,0,26.2982048,0.25,Homo sapiens,Native Californian
+BRK126117,Premolar,0,8,0,26.2982048,0.25,Homo sapiens,Native Californian
+BRK126118,Anterior,0,12,0,26.6808313,0.25,Homo sapiens,Native Californian
+BRK126118,Posterior,0,12,0,26.6808313,0.25,Homo sapiens,Native Californian
+BRK126118,Premolar,1,8,0.125,26.6808313,0.25,Homo sapiens,Native Californian
+BRK126121,Anterior,0,12,0,36.5653494,0.25,Homo sapiens,Native Californian
+BRK126121,Posterior,1,12,0.083333333333333,36.5653494,0.25,Homo sapiens,Native Californian
+BRK126121,Premolar,0,8,0,36.5653494,0.25,Homo sapiens,Native Californian
+BRK126124,Anterior,0,12,0,22.0893133,0.75,Homo sapiens,Native Californian
+BRK126124,Posterior,0,12,0,22.0893133,0.75,Homo sapiens,Native Californian
+BRK126124,Premolar,0,8,0,22.0893133,0.75,Homo sapiens,Native Californian
+BRK126125,Anterior,0,5,0,41.1,0.25,Homo sapiens,Native Californian
+BRK126125,Posterior,3,6,0.5,41.1,0.25,Homo sapiens,Native Californian
+BRK126125,Premolar,2,4,0.5,41.1,0.25,Homo sapiens,Native Californian
+BRK126243,Anterior,4,10,0.4,25.5967229,0.75,Homo sapiens,Native Californian
+BRK126243,Posterior,8,12,0.666666666666667,25.5967229,0.75,Homo sapiens,Native Californian
+BRK126243,Premolar,4,8,0.5,25.5967229,0.75,Homo sapiens,Native Californian
+BRK126244,Anterior,0,11,0,26.1068916,0.75,Homo sapiens,Native Californian
+BRK126244,Posterior,0,12,0,26.1068916,0.75,Homo sapiens,Native Californian
+BRK126244,Premolar,0,8,0,26.1068916,0.75,Homo sapiens,Native Californian
+BRK126247,Anterior,0,12,0,39.6263614,0.25,Homo sapiens,Native Californian
+BRK126247,Posterior,0,12,0,39.6263614,0.25,Homo sapiens,Native Californian
+BRK126247,Premolar,0,8,0,39.6263614,0.25,Homo sapiens,Native Californian
+BRK126248,Anterior,0,12,0,28.5939639,0.25,Homo sapiens,Native Californian
+BRK126248,Posterior,0,12,0,28.5939639,0.25,Homo sapiens,Native Californian
+BRK126248,Premolar,0,8,0,28.5939639,0.25,Homo sapiens,Native Californian
+BRK126250,Anterior,0,12,0,26.2982048,0.25,Homo sapiens,Native Californian
+BRK126250,Posterior,0,11,0,26.2982048,0.25,Homo sapiens,Native Californian
+BRK126250,Premolar,0,7,0,26.2982048,0.25,Homo sapiens,Native Californian
+BRK126251,Anterior,0,12,0,29.9331566,0.75,Homo sapiens,Native Californian
+BRK126251,Posterior,0,12,0,29.9331566,0.75,Homo sapiens,Native Californian
+BRK126251,Premolar,0,8,0,29.9331566,0.75,Homo sapiens,Native Californian
+BRK126252,Anterior,0,12,0,22.4719398,0.25,Homo sapiens,Native Californian
+BRK126252,Posterior,0,12,0,22.4719398,0.25,Homo sapiens,Native Californian
+BRK126252,Premolar,0,8,0,22.4719398,0.25,Homo sapiens,Native Californian
+BRK126256,Anterior,0,12,0,32.0376024,0.25,Homo sapiens,Native Californian
+BRK126256,Posterior,0,12,0,32.0376024,0.25,Homo sapiens,Native Californian
+BRK126256,Premolar,0,8,0,32.0376024,0.25,Homo sapiens,Native Californian
+BRK126259,Anterior,0,12,0,32.1651446,0.25,Homo sapiens,Native Californian
+BRK126259,Posterior,0,11,0,32.1651446,0.25,Homo sapiens,Native Californian
+BRK126259,Premolar,0,8,0,32.1651446,0.25,Homo sapiens,Native Californian
+BRK126260,Anterior,0,12,0,36.3740361,0.25,Homo sapiens,Native Californian
+BRK126260,Posterior,1,12,0.083333333333333,36.3740361,0.25,Homo sapiens,Native Californian
+BRK126260,Premolar,0,8,0,36.3740361,0.25,Homo sapiens,Native Californian
+BRK126261,Anterior,0,12,0,32.3564578,0.25,Homo sapiens,Native Californian
+BRK126261,Posterior,0,12,0,32.3564578,0.25,Homo sapiens,Native Californian
+BRK126261,Premolar,0,8,0,32.3564578,0.25,Homo sapiens,Native Californian
+BRK126264,Anterior,0,12,0,37.1392892,0.25,Homo sapiens,Native Californian
+BRK126264,Posterior,0,9,0,37.1392892,0.25,Homo sapiens,Native Californian
+BRK126264,Premolar,0,8,0,37.1392892,0.25,Homo sapiens,Native Californian
+BRK126266,Anterior,0,12,0,36.5653494,0.5,Homo sapiens,Native Californian
+BRK126266,Posterior,6,12,0.5,36.5653494,0.5,Homo sapiens,Native Californian
+BRK126266,Premolar,2,8,0.25,36.5653494,0.5,Homo sapiens,Native Californian
+BRK126271,Anterior,2,11,0.181818181818182,25.8518072,0.5,Homo sapiens,Native Californian
+BRK126271,Posterior,4,12,0.333333333333333,25.8518072,0.5,Homo sapiens,Native Californian
+BRK126271,Premolar,4,8,0.5,25.8518072,0.5,Homo sapiens,Native Californian
+BRK126291,Posterior,1,7,0.142857142857143,22.0893133,0.5,Homo sapiens,Native Californian
+BRK126292,Anterior,0,12,0,36.5653494,0.5,Homo sapiens,Native Californian
+BRK126292,Posterior,0,11,0,36.5653494,0.5,Homo sapiens,Native Californian
+BRK126292,Premolar,0,8,0,36.5653494,0.5,Homo sapiens,Native Californian
+BRK126472,Anterior,0,12,0,28.5939639,0.25,Homo sapiens,Native Californian
+BRK126472,Posterior,0,12,0,28.5939639,0.25,Homo sapiens,Native Californian
+BRK126472,Premolar,0,8,0,28.5939639,0.25,Homo sapiens,Native Californian
+BRK126755,Anterior,0,7,0,26.1068916,0.75,Homo sapiens,Native Californian
+BRK126755,Posterior,0,9,0,26.1068916,0.75,Homo sapiens,Native Californian
+BRK126755,Premolar,0,6,0,26.1068916,0.75,Homo sapiens,Native Californian
+BRK126757,Anterior,0,12,0,31.6549759,0.75,Homo sapiens,Native Californian
+BRK126757,Posterior,0,12,0,31.6549759,0.75,Homo sapiens,Native Californian
+BRK126757,Premolar,0,8,0,31.6549759,0.75,Homo sapiens,Native Californian
+BRK126758,Anterior,0,12,0,23.6198193,0.25,Homo sapiens,Native Californian
+BRK126758,Posterior,0,12,0,23.6198193,0.25,Homo sapiens,Native Californian
+BRK126758,Premolar,0,8,0,23.6198193,0.25,Homo sapiens,Native Californian
+BRK126760,Anterior,0,10,0,26.2982048,0.75,Homo sapiens,Native Californian
+BRK126760,Posterior,0,12,0,26.2982048,0.75,Homo sapiens,Native Californian
+BRK126760,Premolar,0,8,0,26.2982048,0.75,Homo sapiens,Native Californian
+BRK126761,Anterior,1,12,0.083333333333333,35.8000964,0.75,Homo sapiens,Native Californian
+BRK126761,Posterior,1,12,0.083333333333333,35.8000964,0.75,Homo sapiens,Native Californian
+BRK126761,Premolar,0,8,0,35.8000964,0.75,Homo sapiens,Native Californian
+BRK126764,Anterior,0,12,0,23.2371928,0.75,Homo sapiens,Native Californian
+BRK126764,Posterior,0,12,0,23.2371928,0.75,Homo sapiens,Native Californian
+BRK126764,Premolar,0,8,0,23.2371928,0.75,Homo sapiens,Native Californian
+BRK126765,Anterior,0,11,0,29.7418434,0.5,Homo sapiens,Native Californian
+BRK126765,Posterior,1,11,0.090909090909091,29.7418434,0.5,Homo sapiens,Native Californian
+BRK126765,Premolar,0,8,0,29.7418434,0.5,Homo sapiens,Native Californian
+BRK126766,Anterior,0,12,0,26.6808313,0.75,Homo sapiens,Native Californian
+BRK126766,Posterior,0,12,0,26.6808313,0.75,Homo sapiens,Native Californian
+BRK126766,Premolar,0,8,0,26.6808313,0.75,Homo sapiens,Native Californian
+BRK126767,Anterior,0,12,0,31.2085783,0.75,Homo sapiens,Native Californian
+BRK126767,Posterior,0,12,0,31.2085783,0.75,Homo sapiens,Native Californian
+BRK126767,Premolar,0,8,0,31.2085783,0.75,Homo sapiens,Native Californian
+BRK126768,Anterior,1,11,0.090909090909091,37.3306024,0.25,Homo sapiens,Native Californian
+BRK126768,Posterior,6,10,0.6,37.3306024,0.25,Homo sapiens,Native Californian
+BRK126768,Premolar,1,7,0.142857142857143,37.3306024,0.25,Homo sapiens,Native Californian
+BRK126773,Anterior,0,12,0,39.6263614,0.75,Homo sapiens,Native Californian
+BRK126773,Posterior,5,12,0.416666666666667,39.6263614,0.75,Homo sapiens,Native Californian
+BRK126773,Premolar,0,8,0,39.6263614,0.75,Homo sapiens,Native Californian
+BRK126774,Anterior,1,12,0.083333333333333,22.8545663,0.25,Homo sapiens,Native Californian
+BRK126774,Posterior,4,12,0.333333333333333,22.8545663,0.25,Homo sapiens,Native Californian
+BRK126774,Premolar,3,8,0.375,22.8545663,0.25,Homo sapiens,Native Californian
+BRK126776,Anterior,1,12,0.083333333333333,38.8611084,0.5,Homo sapiens,Native Californian
+BRK126776,Posterior,2,12,0.166666666666667,38.8611084,0.5,Homo sapiens,Native Californian
+BRK126776,Premolar,0,8,0,38.8611084,0.5,Homo sapiens,Native Californian
+HTB0802,Anterior,0,12,0,14.23,1,Papio,East Africa
+HTB0802,Posterior,0,12,0,14.23,1,Papio,East Africa
+HTB0802,Premolar,0,8,0,14.23,1,Papio,East Africa
+HTB0828,Anterior,0,12,0,9.18292308,1,Papio,South Africa
+HTB0828,Posterior,0,12,0,9.18292308,1,Papio,South Africa
+HTB0828,Premolar,0,8,0,9.18292308,1,Papio,South Africa
+HTB0890,Anterior,0,12,0,17.8945,1,Papio,East Africa
+HTB0890,Posterior,0,12,0,17.8945,1,Papio,East Africa
+HTB0890,Premolar,0,8,0,17.8945,1,Papio,East Africa
+HTB0900,Anterior,0,12,0,15.3185476,1,Papio,East Africa
+HTB0900,Posterior,0,12,0,15.3185476,1,Papio,East Africa
+HTB0900,Premolar,0,8,0,15.3185476,1,Papio,East Africa
+HTB1025,Anterior,1,12,0.083333333333333,18.6672857,1,Papio,East Africa
+HTB1025,Posterior,0,12,0,18.6672857,1,Papio,East Africa
+HTB1025,Premolar,1,8,0.125,18.6672857,1,Papio,East Africa
+HTB1027,Anterior,0,12,0,18.6672857,0,Papio,East Africa
+HTB1027,Posterior,0,12,0,18.6672857,0,Papio,East Africa
+HTB1027,Premolar,0,8,0,18.6672857,0,Papio,East Africa
+HTB1028,Anterior,0,12,0,13.7729762,0,Papio,East Africa
+HTB1028,Posterior,0,12,0,13.7729762,0,Papio,East Africa
+HTB1028,Premolar,0,8,0,13.7729762,0,Papio,East Africa
+HTB1043,Anterior,1,12,0.083333333333333,16.0913333,1,Papio,East Africa
+HTB1043,Posterior,0,12,0,16.0913333,1,Papio,East Africa
+HTB1043,Premolar,0,8,0,16.0913333,1,Papio,East Africa
+HTB1151,Anterior,0,12,0,13.515381,1,Papio,East Africa
+HTB1151,Posterior,0,12,0,13.515381,1,Papio,East Africa
+HTB1151,Premolar,0,8,0,13.515381,1,Papio,East Africa
+HTB1152,Anterior,0,12,0,13.2577857,1,Papio,East Africa
+HTB1152,Posterior,0,12,0,13.2577857,1,Papio,East Africa
+HTB1152,Premolar,0,8,0,13.2577857,1,Papio,East Africa
+HTB1153,Anterior,0,6,0,13.0001905,1,Papio,East Africa
+HTB1153,Posterior,0,6,0,13.0001905,1,Papio,East Africa
+HTB1153,Premolar,0,4,0,13.0001905,1,Papio,East Africa
+HTB1154,Anterior,0,12,0,15.0609524,1,Papio,East Africa
+HTB1154,Posterior,0,12,0,15.0609524,1,Papio,East Africa
+HTB1154,Premolar,0,8,0,15.0609524,1,Papio,East Africa
+HTB1212,Anterior,1,12,0.083333333333333,11.167,1,Papio,Central Africa
+HTB1212,Posterior,0,12,0,11.167,1,Papio,Central Africa
+HTB1212,Premolar,0,8,0,11.167,1,Papio,Central Africa
+HTB1214,Anterior,0,12,0,14.8033571,1,Papio,East Africa
+HTB1214,Posterior,0,12,0,14.8033571,1,Papio,East Africa
+HTB1214,Premolar,0,8,0,14.8033571,1,Papio,East Africa
+HTB1215,Anterior,0,12,0,12.7010476,1,Papio,East Africa
+HTB1215,Posterior,0,12,0,12.7010476,1,Papio,East Africa
+HTB1215,Premolar,0,8,0,12.7010476,1,Papio,East Africa
+HTB1216,Anterior,2,12,0.166666666666667,17.6369048,1,Papio,East Africa
+HTB1216,Posterior,0,12,0,17.6369048,1,Papio,East Africa
+HTB1216,Premolar,0,8,0,17.6369048,1,Papio,East Africa
+HTB1217,Anterior,0,11,0,16.6065238,1,Papio,East Africa
+HTB1217,Posterior,0,12,0,16.6065238,1,Papio,East Africa
+HTB1217,Premolar,1,8,0.125,16.6065238,1,Papio,East Africa
+HTB1218,Anterior,0,12,0,13.7729762,1,Papio,East Africa
+HTB1218,Posterior,0,12,0,13.7729762,1,Papio,East Africa
+HTB1218,Premolar,0,8,0,13.7729762,1,Papio,East Africa
+HTB1219,Anterior,0,12,0,15.7921905,1,Papio,East Africa
+HTB1219,Posterior,0,12,0,15.7921905,1,Papio,East Africa
+HTB1219,Premolar,0,8,0,15.7921905,1,Papio,East Africa
+HTB1220,Anterior,0,12,0,15.5761429,1,Papio,East Africa
+HTB1220,Posterior,0,12,0,15.5761429,1,Papio,East Africa
+HTB1220,Premolar,0,8,0,15.5761429,1,Papio,East Africa
+HTB1221,Anterior,0,12,0,17.6369048,1,Papio,East Africa
+HTB1221,Posterior,0,12,0,17.6369048,1,Papio,East Africa
+HTB1221,Premolar,0,8,0,17.6369048,1,Papio,East Africa
+HTB1222,Anterior,0,12,0,14.8033571,0,Papio,East Africa
+HTB1222,Posterior,0,12,0,14.8033571,0,Papio,East Africa
+HTB1222,Premolar,0,8,0,14.8033571,0,Papio,East Africa
+HTB1223,Anterior,0,12,0,16.0913333,1,Papio,East Africa
+HTB1223,Posterior,0,12,0,16.0913333,1,Papio,East Africa
+HTB1223,Premolar,0,8,0,16.0913333,1,Papio,East Africa
+HTB1225,Anterior,0,12,0,16.307381,1,Papio,East Africa
+HTB1225,Posterior,0,12,0,16.307381,1,Papio,East Africa
+HTB1225,Premolar,0,8,0,16.307381,1,Papio,East Africa
+HTB1226,Anterior,0,12,0,14.2881667,1,Papio,East Africa
+HTB1226,Posterior,0,12,0,14.2881667,1,Papio,East Africa
+HTB1226,Premolar,0,8,0,14.2881667,1,Papio,East Africa
+HTB1426,Anterior,0,12,0,17.204185,0,Pan,Ebolwa
+HTB1426,Posterior,0,12,0,17.204185,0,Pan,Ebolwa
+HTB1426,Premolar,0,8,0,17.204185,0,Pan,Ebolwa
+HTB1497,Anterior,0,11,0,11.454619,1,Papio,East Africa
+HTB1497,Posterior,0,12,0,11.454619,1,Papio,East Africa
+HTB1497,Premolar,0,8,0,11.454619,1,Papio,East Africa
+HTB1503,Anterior,0,12,0,11.9698095,0,Papio,East Africa
+HTB1503,Posterior,0,12,0,11.9698095,0,Papio,East Africa
+HTB1503,Premolar,0,8,0,11.9698095,0,Papio,East Africa
+HTB1701,Anterior,0,12,0,26.2620552,0,Pan,French Cameroons
+HTB1701,Posterior,0,12,0,26.2620552,0,Pan,French Cameroons
+HTB1701,Premolar,0,8,0,26.2620552,0,Pan,French Cameroons
+HTB1703,Anterior,0,12,0,20.5137914,0,Pan,French Cameroons
+HTB1703,Posterior,0,12,0,20.5137914,0,Pan,French Cameroons
+HTB1703,Premolar,0,8,0,20.5137914,0,Pan,French Cameroons
+HTB1706,Anterior,0,12,0,17.3783748,0,Pan,Ebolwa
+HTB1706,Posterior,0,12,0,17.3783748,0,Pan,Ebolwa
+HTB1706,Premolar,0,7,0,17.3783748,0,Pan,Ebolwa
+HTB1707,Anterior,0,12,0,17.3783748,0,Pan,Ebolwa
+HTB1707,Posterior,0,9,0,17.3783748,0,Pan,Ebolwa
+HTB1707,Premolar,0,7,0,17.3783748,0,Pan,Ebolwa
+HTB1708,Anterior,0,12,0,21.5589303,0,Pan,Ebolwa
+HTB1708,Posterior,0,12,0,21.5589303,0,Pan,Ebolwa
+HTB1708,Premolar,0,8,0,21.5589303,0,Pan,Ebolwa
+HTB1713,Anterior,0,12,0,20.5137914,0,Pan,Ebolwa
+HTB1713,Posterior,0,12,0,20.5137914,0,Pan,Ebolwa
+HTB1713,Premolar,0,8,0,20.5137914,0,Pan,Ebolwa
+HTB1718,Anterior,0,12,0,18.075134,0,Pan,Ebolwa
+HTB1718,Posterior,0,12,0,18.075134,0,Pan,Ebolwa
+HTB1718,Premolar,0,8,0,18.075134,0,Pan,Ebolwa
+HTB1719,Anterior,0,11,0,24.9556316,0,Pan,Ebolwa
+HTB1719,Posterior,1,11,0.090909090909091,24.9556316,0,Pan,Ebolwa
+HTB1719,Premolar,0,8,0,24.9556316,0,Pan,Ebolwa
+HTB1720,Anterior,3,12,0.25,11.630111,0,Pan,Ebolwa
+HTB1720,Posterior,4,12,0.333333333333333,11.630111,0,Pan,Ebolwa
+HTB1720,Premolar,5,8,0.625,11.630111,0,Pan,Ebolwa
+HTB1721,Anterior,0,12,0,18.4235137,0,Pan,Ebolwa
+HTB1721,Posterior,0,12,0,18.4235137,0,Pan,Ebolwa
+HTB1721,Premolar,0,8,0,18.4235137,0,Pan,Ebolwa
+HTB1722,Anterior,0,12,0,20.6879812,0,Pan,Ebolwa
+HTB1722,Posterior,0,12,0,20.6879812,0,Pan,Ebolwa
+HTB1722,Premolar,0,8,0,20.6879812,0,Pan,Ebolwa
+HTB1723,Anterior,0,12,0,24.6943469,0,Pan,Ebolwa
+HTB1723,Posterior,0,12,0,24.6943469,0,Pan,Ebolwa
+HTB1723,Premolar,0,8,0,24.6943469,0,Pan,Ebolwa
+HTB1724,Anterior,0,12,0,18.4235137,0,Pan,Ebolwa
+HTB1724,Posterior,0,12,0,18.4235137,0,Pan,Ebolwa
+HTB1724,Premolar,0,8,0,18.4235137,0,Pan,Ebolwa
+HTB1726,Anterior,5,12,0.416666666666667,25.6120692,0,Pan,Ebolwa
+HTB1726,Posterior,0,12,0,25.6120692,0,Pan,Ebolwa
+HTB1726,Premolar,0,8,0,25.6120692,0,Pan,Ebolwa
+HTB1735,Anterior,0,12,0,18.9460831,0,Pan,Ebolwa
+HTB1735,Posterior,0,12,0,18.9460831,0,Pan,Ebolwa
+HTB1735,Premolar,0,8,0,18.9460831,0,Pan,Ebolwa
+HTB1737,Anterior,0,12,0,27.8297635,0,Pan,Ebolwa
+HTB1737,Posterior,0,9,0,27.8297635,0,Pan,Ebolwa
+HTB1737,Premolar,0,7,0,27.8297635,0,Pan,Ebolwa
+HTB1738,Anterior,0,12,0,19.4686525,0,Pan,Ebolwa
+HTB1738,Posterior,0,12,0,19.4686525,0,Pan,Ebolwa
+HTB1738,Premolar,0,8,0,19.4686525,0,Pan,Ebolwa
+HTB1739,Anterior,0,12,0,21.0363609,0,Pan,Ebolwa
+HTB1739,Posterior,0,12,0,21.0363609,0,Pan,Ebolwa
+HTB1739,Premolar,0,8,0,21.0363609,0,Pan,Ebolwa
+HTB1741,Anterior,0,12,0,28.352333,0,Pan,Ebolwa
+HTB1741,Posterior,0,12,0,28.352333,0,Pan,Ebolwa
+HTB1741,Premolar,0,8,0,28.352333,0,Pan,Ebolwa
+HTB1744,Anterior,0,12,0,19.991222,0,Pan,Ebolwa
+HTB1744,Posterior,0,12,0,19.991222,0,Pan,Ebolwa
+HTB1744,Premolar,0,8,0,19.991222,0,Pan,Ebolwa
+HTB1745,Anterior,0,12,0,18.9460831,0,Pan,Ebolwa
+HTB1745,Posterior,0,12,0,18.9460831,0,Pan,Ebolwa
+HTB1745,Premolar,0,8,0,18.9460831,0,Pan,Ebolwa
+HTB1748,Anterior,1,12,0.083333333333333,33.5780273,0,Pan,Ebolwa
+HTB1748,Posterior,4,11,0.363636363636364,33.5780273,0,Pan,Ebolwa
+HTB1748,Premolar,0,8,0,33.5780273,0,Pan,Ebolwa
+HTB1758,Anterior,0,12,0,19.991222,0,Pan,Ebolwa
+HTB1758,Posterior,0,12,0,19.991222,0,Pan,Ebolwa
+HTB1758,Premolar,0,8,0,19.991222,0,Pan,Ebolwa
+HTB1768,Anterior,0,12,0,19.991222,0,Pan,Ebolwa
+HTB1768,Posterior,0,12,0,19.991222,0,Pan,Ebolwa
+HTB1768,Premolar,0,8,0,19.991222,0,Pan,Ebolwa
+HTB1775,Anterior,1,11,0.090909090909091,26.1346386,0,Pan,French Cameroons
+HTB1775,Posterior,0,12,0,26.1346386,0,Pan,French Cameroons
+HTB1775,Premolar,0,7,0,26.1346386,0,Pan,French Cameroons
+HTB1791,Anterior,0,12,0,21.5589303,0,Pan,Ebolwa
+HTB1791,Posterior,0,12,0,21.5589303,0,Pan,Ebolwa
+HTB1791,Premolar,0,8,0,21.5589303,0,Pan,Ebolwa
+HTB1882,Anterior,0,12,0,17.3783748,0,Pan,Ebolwa
+HTB1882,Posterior,0,12,0,17.3783748,0,Pan,Ebolwa
+HTB1882,Premolar,0,8,0,17.3783748,0,Pan,Ebolwa
+HTB1888,Anterior,0,12,0,28.352333,0,Pan,French Cameroons
+HTB1888,Posterior,0,12,0,28.352333,0,Pan,French Cameroons
+HTB1888,Premolar,0,8,0,28.352333,0,Pan,French Cameroons
+HTB1889,Anterior,0,12,0,29.1361871,0,Pan,French Cameroons
+HTB1889,Posterior,0,12,0,29.1361871,0,Pan,French Cameroons
+HTB1889,Premolar,0,8,0,29.1361871,0,Pan,French Cameroons
+HTB1890,Anterior,0,12,0,20.5137914,0,Pan,French Cameroons
+HTB1890,Posterior,0,12,0,20.5137914,0,Pan,French Cameroons
+HTB1890,Premolar,0,8,0,20.5137914,0,Pan,French Cameroons
+HTB1903,Anterior,0,12,0,22.0814997,0,Pan,French Cameroons
+HTB1903,Posterior,0,12,0,22.0814997,0,Pan,French Cameroons
+HTB1903,Premolar,0,8,0,22.0814997,0,Pan,French Cameroons
+HTB1956,Anterior,0,12,0,29.9200413,0,Pan,French Cameroons
+HTB1956,Posterior,0,12,0,29.9200413,0,Pan,French Cameroons
+HTB1956,Premolar,0,8,0,29.9200413,0,Pan,French Cameroons
+HTB1957,Anterior,0,12,0,23.5217914,0,Pan,French Cameroons
+HTB1957,Posterior,6,12,0.5,23.5217914,0,Pan,French Cameroons
+HTB1957,Premolar,3,8,0.375,23.5217914,0,Pan,French Cameroons
+HTB1958,Anterior,1,12,0.083333333333333,32.010319,0,Pan,French Cameroons
+HTB1958,Posterior,0,12,0,32.010319,0,Pan,French Cameroons
+HTB1958,Premolar,0,8,0,32.010319,0,Pan,French Cameroons
+HTB1959,Anterior,0,12,0,28.352333,0,Pan,French Cameroons
+HTB1959,Posterior,0,12,0,28.352333,0,Pan,French Cameroons
+HTB1959,Premolar,0,8,0,28.352333,0,Pan,French Cameroons
+HTB2001,Anterior,0,12,0,17.9009442,0,Pan,French Cameroons
+HTB2001,Posterior,0,12,0,17.9009442,0,Pan,French Cameroons
+HTB2001,Premolar,0,8,0,17.9009442,0,Pan,French Cameroons
+HTB2026,Anterior,0,12,0,19.991222,0,Pan,Ebolwa
+HTB2026,Posterior,0,12,0,19.991222,0,Pan,Ebolwa
+HTB2026,Premolar,0,8,0,19.991222,0,Pan,Ebolwa
+HTB2027,Anterior,0,12,0,18.9460831,0,Pan,Ebolwa
+HTB2027,Posterior,0,12,0,18.9460831,0,Pan,Ebolwa
+HTB2027,Premolar,0,8,0,18.9460831,0,Pan,Ebolwa
+HTB2032,Anterior,0,12,0,17.6396595,0,Pan,Ebolwa
+HTB2032,Posterior,0,12,0,17.6396595,0,Pan,Ebolwa
+HTB2032,Premolar,0,8,0,17.6396595,0,Pan,Ebolwa
+HTB2033,Anterior,0,12,0,18.9460831,0,Pan,Ebolwa
+HTB2033,Posterior,0,12,0,18.9460831,0,Pan,Ebolwa
+HTB2033,Premolar,0,8,0,18.9460831,0,Pan,Ebolwa
+HTB2034,Anterior,0,12,0,19.4686525,0,Pan,Ebolwa
+HTB2034,Posterior,0,12,0,19.4686525,0,Pan,Ebolwa
+HTB2034,Premolar,0,8,0,19.4686525,0,Pan,Ebolwa
+HTB2747,Anterior,2,12,0.166666666666667,43.6407147,0,Pan,French Cameroons
+HTB2747,Posterior,1,12,0.083333333333333,43.6407147,0,Pan,French Cameroons
+HTB2747,Premolar,0,8,0,43.6407147,0,Pan,French Cameroons
+HTB2748,Anterior,0,12,0,17.3783748,0,Pan,French Cameroons
+HTB2748,Posterior,0,12,0,17.3783748,0,Pan,French Cameroons
+HTB2748,Premolar,0,8,0,17.3783748,0,Pan,French Cameroons
+HTB2751,Anterior,0,12,0,32.5328885,0,Pan,French Cameroons
+HTB2751,Posterior,3,10,0.3,32.5328885,0,Pan,French Cameroons
+HTB2751,Premolar,0,8,0,32.5328885,0,Pan,French Cameroons
+HTB2756,Anterior,0,12,0,19.991222,0,Pan,French Cameroons
+HTB2756,Posterior,0,12,0,19.991222,0,Pan,French Cameroons
+HTB2756,Premolar,0,8,0,19.991222,0,Pan,French Cameroons
+HTB2771,Anterior,0,12,0,16.8558054,0,Pan,French Cameroons
+HTB2771,Posterior,0,12,0,16.8558054,0,Pan,French Cameroons
+HTB2771,Premolar,0,8,0,16.8558054,0,Pan,French Cameroons
+HTB2823,Anterior,0,12,0,28.352333,0,Pan,French Cameroons
+HTB2823,Posterior,0,12,0,28.352333,0,Pan,French Cameroons
+HTB2823,Premolar,0,8,0,28.352333,0,Pan,French Cameroons
+HTB3398,Anterior,0,12,0,18.4235137,0,Pan,West Africa
+HTB3398,Posterior,0,12,0,18.4235137,0,Pan,West Africa
+HTB3398,Premolar,0,8,0,18.4235137,0,Pan,West Africa
+HTB3411,Anterior,0,6,0,32.5328885,0,Pan,West Africa
+HTB3411,Posterior,0,6,0,32.5328885,0,Pan,West Africa
+HTB3411,Premolar,0,4,0,32.5328885,0,Pan,West Africa
+HTB3412,Anterior,0,12,0,15.8106665,0,Pan,West Africa
+HTB3412,Posterior,0,12,0,15.8106665,0,Pan,West Africa
+HTB3412,Premolar,0,8,0,15.8106665,0,Pan,West Africa
+HTB3413,Anterior,0,12,0,17.3783748,0,Pan,West Africa
+HTB3413,Posterior,0,12,0,17.3783748,0,Pan,West Africa
+HTB3413,Premolar,0,8,0,17.3783748,0,Pan,West Africa
+HTB3418,Anterior,0,12,0,24.9556316,0,Pan,West Africa
+HTB3418,Posterior,0,12,0,24.9556316,0,Pan,West Africa
+HTB3418,Premolar,0,8,0,24.9556316,0,Pan,West Africa
+HTB3434,Anterior,0,12,0,15.8106665,0,Pan,West Africa
+HTB3434,Posterior,0,12,0,15.8106665,0,Pan,West Africa
+HTB3434,Premolar,0,8,0,15.8106665,0,Pan,West Africa
+HTB3436,Anterior,0,12,0,31.4877496,0,Pan,West Africa
+HTB3436,Posterior,0,12,0,31.4877496,0,Pan,West Africa
+HTB3436,Premolar,0,8,0,31.4877496,0,Pan,West Africa
+HTB3437,Anterior,0,12,0,14.2429582,0,Pan,West Africa
+HTB3437,Posterior,0,12,0,14.2429582,0,Pan,West Africa
+HTB3437,Premolar,0,8,0,14.2429582,0,Pan,West Africa
+HTB3515,Anterior,0,12,0,14.5622081,0,Papio,East Africa
+HTB3515,Posterior,0,12,0,14.5622081,0,Papio,East Africa
+HTB3515,Premolar,0,8,0,14.5622081,0,Papio,East Africa
+HTB3537,Anterior,0,12,0,17.9009442,0,Pan,West Africa
+HTB3537,Posterior,0,12,0,17.9009442,0,Pan,West Africa
+HTB3537,Premolar,0,8,0,17.9009442,0,Pan,West Africa
+HTB3538,Anterior,0,12,0,19.4686525,0,Pan,West Africa
+HTB3538,Posterior,0,12,0,19.4686525,0,Pan,West Africa
+HTB3538,Premolar,0,8,0,19.4686525,0,Pan,West Africa
+HTB3539,Anterior,0,12,0,17.9009442,0,Pan,West Africa
+HTB3539,Posterior,0,9,0,17.9009442,0,Pan,West Africa
+HTB3539,Premolar,0,8,0,17.9009442,0,Pan,West Africa
+HTB3551,Anterior,1,12,0.083333333333333,19.991222,0,Pan,West Africa
+HTB3551,Posterior,0,12,0,19.991222,0,Pan,West Africa
+HTB3551,Premolar,0,8,0,19.991222,0,Pan,West Africa
+HTB3552,Anterior,0,12,0,21.0363609,0,Pan,West Africa
+HTB3552,Posterior,0,12,0,21.0363609,0,Pan,West Africa
+HTB3552,Premolar,0,8,0,21.0363609,0,Pan,West Africa
+IPHA.1,Anterior,0,9,0,17.6784056,0.75,Homo sapiens,Afalou
+IPHA.1,Posterior,0,11,0,17.6784056,0.75,Homo sapiens,Afalou
+IPHA.1,Premolar,0,8,0,17.6784056,0.75,Homo sapiens,Afalou
+IPHA.10b,Anterior,2,12,0.166666666666667,26.0065524,0.5,Homo sapiens,Afalou
+IPHA.10b,Posterior,1,11,0.090909090909091,26.0065524,0.5,Homo sapiens,Afalou
+IPHA.10b,Premolar,0,8,0,26.0065524,0.5,Homo sapiens,Afalou
+IPHA.12,Anterior,0,12,0,25.9695385,0.75,Homo sapiens,Afalou
+IPHA.12,Posterior,3,12,0.25,25.9695385,0.75,Homo sapiens,Afalou
+IPHA.12,Premolar,0,8,0,25.9695385,0.75,Homo sapiens,Afalou
+IPHA.13,Anterior,2,12,0.166666666666667,25.6734266,0.75,Homo sapiens,Afalou
+IPHA.13,Posterior,0,12,0,25.6734266,0.75,Homo sapiens,Afalou
+IPHA.13,Premolar,0,8,0,25.6734266,0.75,Homo sapiens,Afalou
+IPHA.14,Anterior,5,12,0.416666666666667,22.6752937,0.5,Homo sapiens,Afalou
+IPHA.14,Posterior,0,12,0,22.6752937,0.5,Homo sapiens,Afalou
+IPHA.14,Premolar,0,8,0,22.6752937,0.5,Homo sapiens,Afalou
+IPHA.15,Anterior,2,6,0.333333333333333,26.6357902,0.75,Homo sapiens,Afalou
+IPHA.15,Posterior,0,5,0,26.6357902,0.75,Homo sapiens,Afalou
+IPHA.15,Premolar,0,2,0,26.6357902,0.75,Homo sapiens,Afalou
+IPHA.2,Anterior,3,12,0.25,20.0102867,0.75,Homo sapiens,Afalou
+IPHA.2,Posterior,0,12,0,20.0102867,0.75,Homo sapiens,Afalou
+IPHA.2,Premolar,0,8,0,20.0102867,0.75,Homo sapiens,Afalou
+IPHA.22,Anterior,1,10,0.1,17.3452797,0.25,Homo sapiens,Afalou
+IPHA.22,Posterior,0,10,0,17.3452797,0.25,Homo sapiens,Afalou
+IPHA.22,Premolar,0,7,0,17.3452797,0.25,Homo sapiens,Afalou
+IPHA.25,Anterior,1,6,0.166666666666667,29.3007972,0.75,Homo sapiens,Afalou
+IPHA.25,Posterior,3,10,0.3,29.3007972,0.75,Homo sapiens,Afalou
+IPHA.25,Premolar,0,8,0,29.3007972,0.75,Homo sapiens,Afalou
+IPHA.28,Anterior,1,12,0.083333333333333,27.3390559,0.75,Homo sapiens,Afalou
+IPHA.28,Posterior,0,12,0,27.3390559,0.75,Homo sapiens,Afalou
+IPHA.28,Premolar,0,8,0,27.3390559,0.75,Homo sapiens,Afalou
+IPHA.29,Anterior,2,12,0.166666666666667,18.6777832,0.25,Homo sapiens,Afalou
+IPHA.29,Posterior,2,12,0.166666666666667,18.6777832,0.25,Homo sapiens,Afalou
+IPHA.29,Premolar,0,8,0,18.6777832,0.25,Homo sapiens,Afalou
+IPHA.3,Anterior,0,6,0,27.3390559,0.25,Homo sapiens,Afalou
+IPHA.3,Posterior,1,6,0.166666666666667,27.3390559,0.25,Homo sapiens,Afalou
+IPHA.3,Premolar,0,4,0,27.3390559,0.25,Homo sapiens,Afalou
+IPHA.30,Anterior,2,12,0.166666666666667,21.6759161,0.5,Homo sapiens,Afalou
+IPHA.30,Posterior,0,12,0,21.6759161,0.5,Homo sapiens,Afalou
+IPHA.30,Premolar,0,8,0,21.6759161,0.5,Homo sapiens,Afalou
+IPHA.34,Anterior,2,12,0.166666666666667,21.0096643,0.25,Homo sapiens,Afalou
+IPHA.34,Posterior,0,10,0,21.0096643,0.25,Homo sapiens,Afalou
+IPHA.34,Premolar,0,8,0,21.0096643,0.25,Homo sapiens,Afalou
+IPHA.36,Anterior,9,12,0.75,48.8,0.75,Homo sapiens,Afalou
+IPHA.36,Posterior,4,5,0.8,48.8,0.75,Homo sapiens,Afalou
+IPHA.36,Premolar,5,7,0.714285714285714,48.8,0.75,Homo sapiens,Afalou
+IPHA.45,Anterior,0,6,0,18.0115315,0.5,Homo sapiens,Afalou
+IPHA.45,Posterior,0,6,0,18.0115315,0.5,Homo sapiens,Afalou
+IPHA.45,Premolar,0,4,0,18.0115315,0.5,Homo sapiens,Afalou
+IPHA.46,Anterior,2,12,0.166666666666667,20.0102867,0.5,Homo sapiens,Afalou
+IPHA.46,Posterior,1,7,0.142857142857143,20.0102867,0.5,Homo sapiens,Afalou
+IPHA.46,Premolar,1,6,0.166666666666667,20.0102867,0.5,Homo sapiens,Afalou
+IPHA.47,Anterior,0,9,0,26.6728042,0.75,Homo sapiens,Afalou
+IPHA.47,Posterior,0,12,0,26.6728042,0.75,Homo sapiens,Afalou
+IPHA.47,Premolar,0,8,0,26.6728042,0.75,Homo sapiens,Afalou
+IPHA.48,Anterior,1,11,0.090909090909091,18.3446573,0.75,Homo sapiens,Afalou
+IPHA.48,Posterior,1,11,0.090909090909091,18.3446573,0.75,Homo sapiens,Afalou
+IPHA.48,Premolar,0,8,0,18.3446573,0.75,Homo sapiens,Afalou
+IPHA.49,Anterior,2,12,0.166666666666667,27.3390559,0.75,Homo sapiens,Afalou
+IPHA.49,Posterior,0,12,0,27.3390559,0.75,Homo sapiens,Afalou
+IPHA.49,Premolar,0,8,0,27.3390559,0.75,Homo sapiens,Afalou
+IPHA.5,Anterior,2,12,0.166666666666667,26.0065524,0.75,Homo sapiens,Afalou
+IPHA.5,Posterior,1,10,0.1,26.0065524,0.75,Homo sapiens,Afalou
+IPHA.5,Premolar,0,8,0,26.0065524,0.75,Homo sapiens,Afalou
+IPHA.7,Anterior,1,4,0.25,26.6728042,0.25,Homo sapiens,Afalou
+IPHA.7,Posterior,0,9,0,26.6728042,0.25,Homo sapiens,Afalou
+IPHA.7,Premolar,0,6,0,26.6728042,0.25,Homo sapiens,Afalou
+IPHA.9,Anterior,3,6,0.5,26.6357902,0.75,Homo sapiens,Afalou
+IPHA.9,Posterior,0,5,0,26.6357902,0.75,Homo sapiens,Afalou
+IPHA.9,Premolar,2,4,0.5,26.6357902,0.75,Homo sapiens,Afalou
+MH10285,Anterior,0,12,0,38.2372609,0.75,Homo sapiens,Ona
+MH10285,Posterior,0,12,0,38.2372609,0.75,Homo sapiens,Ona
+MH10285,Premolar,0,8,0,38.2372609,0.75,Homo sapiens,Ona
+MH10289,Anterior,0,12,0,28.0348116,0.75,Homo sapiens,Fuegian
+MH10289,Posterior,0,12,0,28.0348116,0.75,Homo sapiens,Fuegian
+MH10289,Premolar,0,8,0,28.0348116,0.75,Homo sapiens,Fuegian
+MH10291,Anterior,0,12,0,36.6263478,0.75,Homo sapiens,Yaghan
+MH10291,Posterior,0,12,0,36.6263478,0.75,Homo sapiens,Yaghan
+MH10291,Premolar,0,8,0,36.6263478,0.75,Homo sapiens,Yaghan
+MH11150,Anterior,0,6,0,17.1850548,0.25,Homo sapiens,Buriat
+MH11150,Posterior,0,6,0,17.1850548,0.25,Homo sapiens,Buriat
+MH11150,Premolar,0,4,0,17.1850548,0.25,Homo sapiens,Buriat
+MH12316,Anterior,0,12,0,47.0491348,0.75,Homo sapiens,Chucki
+MH12316,Posterior,2,12,0.166666666666667,47.0491348,0.75,Homo sapiens,Chucki
+MH12316,Premolar,0,8,0,47.0491348,0.75,Homo sapiens,Chucki
+MH12317,Anterior,1,12,0.083333333333333,41.1,0.25,Homo sapiens,Chucki
+MH12317,Posterior,3,11,0.272727272727273,41.1,0.25,Homo sapiens,Chucki
+MH12317,Premolar,0,8,0,41.1,0.25,Homo sapiens,Chucki
+MH12318,Anterior,0,6,0,37.551766,0.25,Homo sapiens,Chucki
+MH12318,Posterior,0,6,0,37.551766,0.25,Homo sapiens,Chucki
+MH12318,Premolar,0,4,0,37.551766,0.25,Homo sapiens,Chucki
+MH12319,Anterior,0,6,0,51.7415106,0.5,Homo sapiens,Chucki
+MH12319,Posterior,0,6,0,51.7415106,0.5,Homo sapiens,Chucki
+MH12319,Premolar,0,4,0,51.7415106,0.5,Homo sapiens,Chucki
+MH12320,Anterior,0,12,0,40.7050426,0.75,Homo sapiens,Chucki
+MH12320,Posterior,0,12,0,40.7050426,0.75,Homo sapiens,Chucki
+MH12320,Premolar,0,8,0,40.7050426,0.75,Homo sapiens,Chucki
+MH12321,Anterior,0,6,0,71.2242553,0.75,Homo sapiens,Chucki
+MH12321,Posterior,0,6,0,71.2242553,0.75,Homo sapiens,Chucki
+MH12321,Premolar,0,4,0,71.2242553,0.75,Homo sapiens,Chucki
+MH12322,Anterior,0,6,0,59.6247021,0.75,Homo sapiens,Chucki
+MH12322,Posterior,1,6,0.166666666666667,59.6247021,0.75,Homo sapiens,Chucki
+MH12322,Premolar,0,4,0,59.6247021,0.75,Homo sapiens,Chucki
+MH12323,Anterior,1,6,0.166666666666667,51.9,0.25,Homo sapiens,Chucki
+MH12323,Posterior,4,6,0.666666666666667,51.9,0.25,Homo sapiens,Chucki
+MH12323,Premolar,0,4,0,51.9,0.25,Homo sapiens,Chucki
+MH12324,Anterior,0,11,0,39.1284043,0.5,Homo sapiens,Chucki
+MH12324,Posterior,1,12,0.083333333333333,39.1284043,0.5,Homo sapiens,Chucki
+MH12324,Premolar,2,8,0.25,39.1284043,0.5,Homo sapiens,Chucki
+MH12326,Anterior,1,6,0.166666666666667,50.1648723,0.75,Homo sapiens,Chucki
+MH12326,Posterior,5,6,0.833333333333333,50.1648723,0.75,Homo sapiens,Chucki
+MH12326,Premolar,0,4,0,50.1648723,0.75,Homo sapiens,Chucki
+MH12327,Anterior,0,6,0,28.0919362,0.75,Homo sapiens,Chucki
+MH12327,Posterior,0,6,0,28.0919362,0.75,Homo sapiens,Chucki
+MH12327,Premolar,0,4,0,28.0919362,0.75,Homo sapiens,Chucki
+MH12328,Anterior,0,5,0,35.9751277,0.25,Homo sapiens,Chucki
+MH12328,Posterior,0,6,0,35.9751277,0.25,Homo sapiens,Chucki
+MH12328,Premolar,0,4,0,35.9751277,0.25,Homo sapiens,Chucki
+MH1503,Anterior,1,12,0.083333333333333,15.567015,0.25,Homo sapiens,Tasmanien
+MH1503,Posterior,0,12,0,15.567015,0.25,Homo sapiens,Tasmanien
+MH1503,Premolar,0,8,0,15.567015,0.25,Homo sapiens,Tasmanien
+MH1505,Anterior,0,12,0,25.9830314,0.75,Homo sapiens,Tasmanien
+MH1505,Posterior,0,12,0,25.9830314,0.75,Homo sapiens,Tasmanien
+MH1505,Premolar,0,8,0,25.9830314,0.75,Homo sapiens,Tasmanien
+MH1507,Anterior,4,12,0.333333333333333,27.7190342,0.5,Homo sapiens,Australian aboriginie
+MH1507,Posterior,4,12,0.333333333333333,27.7190342,0.5,Homo sapiens,Australian aboriginie
+MH1507,Premolar,0,8,0,27.7190342,0.5,Homo sapiens,Australian aboriginie
+MH1509,Anterior,0,12,0,19.9070219,0.25,Homo sapiens,Australian aboriginie
+MH1509,Posterior,0,12,0,19.9070219,0.25,Homo sapiens,Australian aboriginie
+MH1509,Premolar,0,8,0,19.9070219,0.25,Homo sapiens,Australian aboriginie
+MH1511,Anterior,1,6,0.166666666666667,21.6430246,0.75,Homo sapiens,Australian aboriginie
+MH1511,Posterior,0,6,0,21.6430246,0.75,Homo sapiens,Australian aboriginie
+MH1511,Premolar,0,4,0,21.6430246,0.75,Homo sapiens,Australian aboriginie
+MH1525,Anterior,0,12,0,42.5600492,0.25,Homo sapiens,Australian aboriginie
+MH1525,Posterior,3,11,0.272727272727273,42.5600492,0.25,Homo sapiens,Australian aboriginie
+MH1525,Premolar,0,8,0,42.5600492,0.25,Homo sapiens,Australian aboriginie
+MH1526,Anterior,0,6,0,39.4,0.5,Homo sapiens,Australian aboriginie
+MH1526,Posterior,0,5,0,39.4,0.5,Homo sapiens,Australian aboriginie
+MH1526,Premolar,0,4,0,39.4,0.5,Homo sapiens,Australian aboriginie
+MH1670,Anterior,0,6,0,24.2408033,0.75,Homo sapiens,Sami
+MH1670,Posterior,0,6,0,24.2408033,0.75,Homo sapiens,Sami
+MH1670,Premolar,0,4,0,24.2408033,0.75,Homo sapiens,Sami
+MH1701,Anterior,0,12,0,27.8851639,0.5,Homo sapiens,Sami
+MH1701,Posterior,0,12,0,27.8851639,0.5,Homo sapiens,Sami
+MH1701,Premolar,0,8,0,27.8851639,0.5,Homo sapiens,Sami
+MH1702,Anterior,2,12,0.166666666666667,46.1069672,0.25,Homo sapiens,Sami
+MH1702,Posterior,7,12,0.583333333333333,46.1069672,0.25,Homo sapiens,Sami
+MH1702,Premolar,2,8,0.25,46.1069672,0.25,Homo sapiens,Sami
+MH17264,Anterior,2,11,0.181818181818182,27.804026,0.25,Homo sapiens,Australian aboriginie
+MH17264,Posterior,0,12,0,27.804026,0.25,Homo sapiens,Australian aboriginie
+MH17264,Premolar,0,8,0,27.804026,0.25,Homo sapiens,Australian aboriginie
+MH1860,Anterior,2,6,0.333333333333333,38.6447049,0.25,Homo sapiens,Sami
+MH1860,Posterior,0,6,0,38.6447049,0.25,Homo sapiens,Sami
+MH1860,Premolar,0,4,0,38.6447049,0.25,Homo sapiens,Sami
+MH1861,Anterior,3,6,0.5,22.418623,0.5,Homo sapiens,Sami
+MH1861,Posterior,0,6,0,22.418623,0.5,Homo sapiens,Sami
+MH1861,Premolar,0,4,0,22.418623,0.5,Homo sapiens,Sami
+MH19776,Anterior,0,12,0,38.5020685,0.5,Homo sapiens,Buriat
+MH19776,Posterior,0,12,0,38.5020685,0.5,Homo sapiens,Buriat
+MH19776,Premolar,0,8,0,38.5020685,0.5,Homo sapiens,Buriat
+MH19777,Anterior,0,6,0,21.2454384,0.25,Homo sapiens,Buriat
+MH19777,Posterior,0,6,0,21.2454384,0.25,Homo sapiens,Buriat
+MH19777,Premolar,0,4,0,21.2454384,0.25,Homo sapiens,Buriat
+MH19782,Anterior,0,6,0,27.3360137,0.25,Homo sapiens,Buriat
+MH19782,Posterior,0,6,0,27.3360137,0.25,Homo sapiens,Buriat
+MH19782,Premolar,0,4,0,27.3360137,0.25,Homo sapiens,Buriat
+MH19784,Anterior,0,12,0,23.5294041,0.25,Homo sapiens,Buriat
+MH19784,Posterior,0,13,0,23.5294041,0.25,Homo sapiens,Buriat
+MH19784,Premolar,0,8,0,23.5294041,0.25,Homo sapiens,Buriat
+MH19826,Anterior,0,6,0,25.3499565,0.25,Homo sapiens,Yaghan
+MH19826,Posterior,0,6,0,25.3499565,0.25,Homo sapiens,Yaghan
+MH19826,Premolar,0,4,0,25.3499565,0.25,Homo sapiens,Yaghan
+MH20325,Anterior,0,12,0,26.8510328,0.75,Homo sapiens,Australian aboriginie
+MH20325,Posterior,1,12,0.083333333333333,26.8510328,0.75,Homo sapiens,Australian aboriginie
+MH20325,Premolar,0,8,0,26.8510328,0.75,Homo sapiens,Australian aboriginie
+MH20326,Anterior,0,6,0,32.059041,0.5,Homo sapiens,Australian aboriginie
+MH20326,Posterior,0,6,0,32.059041,0.5,Homo sapiens,Australian aboriginie
+MH20326,Premolar,0,4,0,32.059041,0.5,Homo sapiens,Australian aboriginie
+MH20912,Anterior,0,6,0,26.4238986,0.5,Homo sapiens,Ona
+MH20912,Posterior,0,6,0,26.4238986,0.5,Homo sapiens,Ona
+MH20912,Premolar,0,4,0,26.4238986,0.5,Homo sapiens,Ona
+MH20913,Anterior,0,6,0,32.8675507,0.75,Homo sapiens,Yaghan
+MH20913,Posterior,0,6,0,32.8675507,0.75,Homo sapiens,Yaghan
+MH20913,Premolar,0,4,0,32.8675507,0.75,Homo sapiens,Yaghan
+MH20914,Anterior,0,6,0,24.2760145,0.25,Homo sapiens,Yaghan
+MH20914,Posterior,0,6,0,24.2760145,0.25,Homo sapiens,Yaghan
+MH20914,Premolar,0,4,0,24.2760145,0.25,Homo sapiens,Yaghan
+MH22277,Anterior,0,6,0,32,0.5,Homo sapiens,Sami
+MH22277,Posterior,0,5,0,32,0.5,Homo sapiens,Sami
+MH22277,Premolar,0,4,0,32,0.5,Homo sapiens,Sami
+MH22278,Anterior,0,6,0,38.8182459,0.5,Homo sapiens,Sami
+MH22278,Posterior,0,6,0,38.8182459,0.5,Homo sapiens,Sami
+MH22278,Premolar,0,4,0,38.8182459,0.5,Homo sapiens,Sami
+MH22280,Anterior,0,6,0,37.603459,0.75,Homo sapiens,Sami
+MH22280,Posterior,0,6,0,37.603459,0.75,Homo sapiens,Sami
+MH22280,Premolar,0,4,0,37.603459,0.75,Homo sapiens,Sami
+MH22281,Anterior,0,6,0,40.6404262,0.25,Homo sapiens,Sami
+MH22281,Posterior,0,6,0,40.6404262,0.25,Homo sapiens,Sami
+MH22281,Premolar,0,4,0,40.6404262,0.25,Homo sapiens,Sami
+MH22282,Anterior,0,6,0,35.1738852,0.25,Homo sapiens,Sami
+MH22282,Posterior,0,6,0,35.1738852,0.25,Homo sapiens,Sami
+MH22282,Premolar,0,4,0,35.1738852,0.25,Homo sapiens,Sami
+MH22283,Anterior,0,6,0,46.1069672,0.25,Homo sapiens,Sami
+MH22283,Posterior,0,6,0,46.1069672,0.25,Homo sapiens,Sami
+MH22283,Premolar,0,4,0,46.1069672,0.25,Homo sapiens,Sami
+MH2283,Anterior,0,6,0,18.9063043,0.25,Homo sapiens,Fuegian
+MH2283,Posterior,0,6,0,18.9063043,0.25,Homo sapiens,Fuegian
+MH2283,Premolar,0,4,0,18.9063043,0.25,Homo sapiens,Fuegian
+MH24592,Anterior,0,9,0,44.680913,0.25,Homo sapiens,Ona
+MH24592,Posterior,0,9,0,44.680913,0.25,Homo sapiens,Ona
+MH24592,Premolar,0,6,0,44.680913,0.25,Homo sapiens,Ona
+MH24893,Anterior,0,4,0,24.0333178,0.25,Homo sapiens,Khoi-San
+MH24893,Posterior,1,3,0.333333333333333,24.0333178,0.25,Homo sapiens,Khoi-San
+MH24893,Premolar,0,2,0,24.0333178,0.25,Homo sapiens,Khoi-San
+MH24894,Anterior,0,6,0,58.6886885,0.75,Homo sapiens,Sami
+MH24894,Posterior,0,4,0,58.6886885,0.75,Homo sapiens,Sami
+MH24894,Premolar,0,4,0,58.6886885,0.75,Homo sapiens,Sami
+MH24934A,Anterior,0,6,0,30.3813014,0.25,Homo sapiens,Buriat
+MH24934A,Posterior,0,6,0,30.3813014,0.25,Homo sapiens,Buriat
+MH24934A,Premolar,0,4,0,30.3813014,0.25,Homo sapiens,Buriat
+MH24934B,Anterior,0,6,0,40,0.75,Homo sapiens,Buriat
+MH24934B,Posterior,6,6,1,40,0.75,Homo sapiens,Buriat
+MH24934B,Premolar,1,4,0.25,40,0.75,Homo sapiens,Buriat
+MH24934C,Anterior,6,6,1,55,0.75,Homo sapiens,Buriat
+MH24934C,Posterior,5,6,0.833333333333333,55,0.75,Homo sapiens,Buriat
+MH24934C,Premolar,3,4,0.75,55,0.75,Homo sapiens,Buriat
+MH2896,Anterior,0,12,0,22.1568264,0.5,Homo sapiens,Khoi-San
+MH2896,Posterior,0,12,0,22.1568264,0.5,Homo sapiens,Khoi-San
+MH2896,Premolar,0,8,0,22.1568264,0.5,Homo sapiens,Khoi-San
+MH3337,Anterior,1,6,0.166666666666667,33.4930246,0.75,Homo sapiens,Australian aboriginie
+MH3337,Posterior,0,6,0,33.4930246,0.75,Homo sapiens,Australian aboriginie
+MH3337,Premolar,0,4,0,33.4930246,0.75,Homo sapiens,Australian aboriginie
+MH3616,Anterior,1,12,0.083333333333333,33.7950437,0.75,Homo sapiens,Australian aboriginie
+MH3616,Posterior,0,12,0,33.7950437,0.75,Homo sapiens,Australian aboriginie
+MH3616,Premolar,0,8,0,33.7950437,0.75,Homo sapiens,Australian aboriginie
+MH3619,Anterior,0,12,0,22.0770253,0.75,Homo sapiens,Tasmanien
+MH3619,Posterior,0,12,0,22.0770253,0.75,Homo sapiens,Tasmanien
+MH3619,Premolar,0,8,0,22.0770253,0.75,Homo sapiens,Tasmanien
+MH3638,Anterior,0,12,0,26.8510328,0.25,Homo sapiens,Tasmanien
+MH3638,Posterior,0,12,0,26.8510328,0.25,Homo sapiens,Tasmanien
+MH3638,Premolar,0,8,0,26.8510328,0.25,Homo sapiens,Tasmanien
+MH4459,Anterior,0,12,0,36.0500389,0.75,Homo sapiens,Australian aboriginie
+MH4459,Posterior,0,12,0,36.0500389,0.75,Homo sapiens,Australian aboriginie
+MH4459,Premolar,0,8,0,36.0500389,0.75,Homo sapiens,Australian aboriginie
+MH4460,Anterior,0,12,0,32.059041,0.25,Homo sapiens,Australian aboriginie
+MH4460,Posterior,3,12,0.25,32.059041,0.25,Homo sapiens,Australian aboriginie
+MH4460,Premolar,1,8,0.125,32.059041,0.25,Homo sapiens,Australian aboriginie
+MH4665,Anterior,0,12,0,23.813028,0.25,Homo sapiens,Australian aboriginie
+MH4665,Posterior,0,12,0,23.813028,0.25,Homo sapiens,Australian aboriginie
+MH4665,Premolar,0,8,0,23.813028,0.25,Homo sapiens,Australian aboriginie
+MH4763,Anterior,1,12,0.083333333333333,22.0770253,0.25,Homo sapiens,Australian aboriginie
+MH4763,Posterior,1,13,0.076923076923077,22.0770253,0.25,Homo sapiens,Australian aboriginie
+MH4763,Premolar,0,8,0,22.0770253,0.25,Homo sapiens,Australian aboriginie
+MH4765,Anterior,1,6,0.166666666666667,25.2000219,0.25,Homo sapiens,Australian aboriginie
+MH4765,Posterior,1,5,0.2,25.2000219,0.25,Homo sapiens,Australian aboriginie
+MH4765,Premolar,0,4,0,25.2000219,0.25,Homo sapiens,Australian aboriginie
+MH4767,Anterior,0,12,0,15.567015,0.25,Homo sapiens,Tasmanien
+MH4767,Posterior,2,12,0.166666666666667,15.567015,0.25,Homo sapiens,Tasmanien
+MH4767,Premolar,0,8,0,15.567015,0.25,Homo sapiens,Tasmanien
+MH5325,Anterior,0,6,0,23.3790273,0.75,Homo sapiens,Australian aboriginie
+MH5325,Posterior,0,6,0,23.3790273,0.75,Homo sapiens,Australian aboriginie
+MH5325,Premolar,0,4,0,23.3790273,0.75,Homo sapiens,Australian aboriginie
+MH5327,Anterior,0,6,0,25.9830314,0.25,Homo sapiens,Australian aboriginie
+MH5327,Posterior,0,6,0,25.9830314,0.25,Homo sapiens,Australian aboriginie
+MH5327,Premolar,0,4,0,25.9830314,0.25,Homo sapiens,Australian aboriginie
+MH5328,Anterior,0,6,0,29.4550369,0.25,Homo sapiens,Australian aboriginie
+MH5328,Posterior,0,6,0,29.4550369,0.25,Homo sapiens,Australian aboriginie
+MH5328,Premolar,0,4,0,29.4550369,0.25,Homo sapiens,Australian aboriginie
+MH5329,Anterior,2,12,0.166666666666667,24.2470287,0.25,Homo sapiens,Australian aboriginie
+MH5329,Posterior,0,12,0,24.2470287,0.25,Homo sapiens,Australian aboriginie
+MH5329,Premolar,0,8,0,24.2470287,0.25,Homo sapiens,Australian aboriginie
+MH5330,Anterior,0,12,0,17.3030178,0.25,Homo sapiens,Australian aboriginie
+MH5330,Posterior,0,12,0,17.3030178,0.25,Homo sapiens,Australian aboriginie
+MH5330,Premolar,0,8,0,17.3030178,0.25,Homo sapiens,Australian aboriginie
+MH5563,Anterior,2,6,0.333333333333333,51.9,0.25,Homo sapiens,Khoi-San
+MH5563,Posterior,2,6,0.333333333333333,51.9,0.25,Homo sapiens,Khoi-San
+MH5563,Premolar,2,4,0.5,51.9,0.25,Homo sapiens,Khoi-San
+MH8057,Anterior,0,12,0,53.3956885,0.25,Homo sapiens,Sami
+MH8057,Posterior,0,12,0,53.3956885,0.25,Homo sapiens,Sami
+MH8057,Premolar,0,8,0,53.3956885,0.25,Homo sapiens,Sami
+NMNH225025,Anterior,0,6,0,37.551766,0.5,Homo sapiens,Chucki
+NMNH225025,Posterior,0,6,0,37.551766,0.5,Homo sapiens,Chucki
+NMNH225025,Premolar,0,4,0,37.551766,0.5,Homo sapiens,Chucki
+NMNH225028,Anterior,0,6,0,38.3400851,0.75,Homo sapiens,Chucki
+NMNH225028,Posterior,0,6,0,38.3400851,0.75,Homo sapiens,Chucki
+NMNH225028,Premolar,0,4,0,38.3400851,0.75,Homo sapiens,Chucki
+NMNH225029,Anterior,0,6,0,47.0115957,0.25,Homo sapiens,Chucki
+NMNH225029,Posterior,0,6,0,47.0115957,0.25,Homo sapiens,Chucki
+NMNH225029,Premolar,0,4,0,47.0115957,0.25,Homo sapiens,Chucki
+NMNH225032,Anterior,4,6,0.666666666666667,55,0.75,Homo sapiens,Chucki
+NMNH225032,Posterior,4,4,1,55,0.75,Homo sapiens,Chucki
+NMNH225032,Premolar,4,4,1,55,0.75,Homo sapiens,Chucki
+NMNH226086,Anterior,4,12,0.333333333333333,34.6630451,0.75,Homo sapiens,Australian aboriginie
+NMNH226086,Posterior,5,11,0.454545454545455,34.6630451,0.75,Homo sapiens,Australian aboriginie
+NMNH226086,Premolar,3,8,0.375,34.6630451,0.75,Homo sapiens,Australian aboriginie
+NMNH226087,Anterior,0,6,0,21.6430246,0.5,Homo sapiens,Australian aboriginie
+NMNH226087,Posterior,0,6,0,21.6430246,0.5,Homo sapiens,Australian aboriginie
+NMNH226087,Premolar,0,4,0,21.6430246,0.5,Homo sapiens,Australian aboriginie
+NMNH226088,Anterior,0,6,0,41.1,0.5,Homo sapiens,Australian aboriginie
+NMNH226088,Posterior,0,2,0,41.1,0.5,Homo sapiens,Australian aboriginie
+NMNH226088,Premolar,0,4,0,41.1,0.5,Homo sapiens,Australian aboriginie
+NMNH226089,Anterior,0,12,0,16.4350164,0.5,Homo sapiens,Australian aboriginie
+NMNH226089,Posterior,0,12,0,16.4350164,0.5,Homo sapiens,Australian aboriginie
+NMNH226089,Premolar,0,8,0,16.4350164,0.5,Homo sapiens,Australian aboriginie
+NMNH226090,Anterior,0,12,0,19.0390205,0.25,Homo sapiens,Australian aboriginie
+NMNH226090,Posterior,1,12,0.083333333333333,19.0390205,0.25,Homo sapiens,Australian aboriginie
+NMNH226090,Premolar,0,7,0,19.0390205,0.25,Homo sapiens,Australian aboriginie
+NMNH226092,Anterior,4,6,0.666666666666667,55,0.25,Homo sapiens,Australian aboriginie
+NMNH226092,Posterior,6,6,1,55,0.25,Homo sapiens,Australian aboriginie
+NMNH226092,Premolar,4,4,1,55,0.25,Homo sapiens,Australian aboriginie
+NMNH227455,Anterior,0,12,0,11.6610089,0.5,Homo sapiens,Australian aboriginie
+NMNH227455,Posterior,0,12,0,11.6610089,0.5,Homo sapiens,Australian aboriginie
+NMNH227455,Premolar,0,8,0,11.6610089,0.5,Homo sapiens,Australian aboriginie
+NMNH258483,Anterior,0,12,0,25.3320304,0.25,Homo sapiens,Australian aboriginie
+NMNH258483,Posterior,0,12,0,25.3320304,0.25,Homo sapiens,Australian aboriginie
+NMNH258483,Premolar,0,8,0,25.3320304,0.25,Homo sapiens,Australian aboriginie
+NMNH278701,Anterior,8,12,0.666666666666667,28.3511096,0.25,Homo sapiens,Buriat
+NMNH278701,Posterior,7,12,0.583333333333333,28.3511096,0.25,Homo sapiens,Buriat
+NMNH278701,Premolar,4,8,0.5,28.3511096,0.25,Homo sapiens,Buriat
+NMNH278702,Anterior,3,12,0.25,22.2605342,0.25,Homo sapiens,Buriat
+NMNH278702,Posterior,5,11,0.454545454545455,22.2605342,0.25,Homo sapiens,Buriat
+NMNH278702,Premolar,4,8,0.5,22.2605342,0.25,Homo sapiens,Buriat
+NMNH278703,Anterior,0,12,0,40,0.25,Homo sapiens,Buriat
+NMNH278703,Posterior,6,9,0.666666666666667,40,0.25,Homo sapiens,Buriat
+NMNH278703,Premolar,0,8,0,40,0.25,Homo sapiens,Buriat
+NMNH278704,Anterior,0,12,0,17.4388288,0.25,Homo sapiens,Buriat
+NMNH278704,Posterior,0,12,0,17.4388288,0.25,Homo sapiens,Buriat
+NMNH278704,Premolar,0,8,0,17.4388288,0.25,Homo sapiens,Buriat
+NMNH278705,Anterior,10,12,0.833333333333333,55,0.25,Homo sapiens,Buriat
+NMNH278705,Posterior,12,12,1,55,0.25,Homo sapiens,Buriat
+NMNH278705,Premolar,6,8,0.75,55,0.25,Homo sapiens,Buriat
+NMNH278706,Anterior,1,12,0.083333333333333,30.1275274,0.5,Homo sapiens,Buriat
+NMNH278706,Posterior,5,12,0.416666666666667,30.1275274,0.5,Homo sapiens,Buriat
+NMNH278706,Premolar,0,8,0,30.1275274,0.5,Homo sapiens,Buriat
+NMNH278707,Anterior,5,12,0.416666666666667,27.8435616,0.75,Homo sapiens,Buriat
+NMNH278707,Posterior,2,12,0.166666666666667,27.8435616,0.75,Homo sapiens,Buriat
+NMNH278707,Premolar,0,8,0,27.8435616,0.75,Homo sapiens,Buriat
+NMNH278708,Anterior,0,12,0,20.2303425,0.25,Homo sapiens,Buriat
+NMNH278708,Posterior,0,12,0,20.2303425,0.25,Homo sapiens,Buriat
+NMNH278708,Premolar,0,8,0,20.2303425,0.25,Homo sapiens,Buriat
+NMNH278709,Anterior,6,12,0.5,17.1850548,0.25,Homo sapiens,Buriat
+NMNH278709,Posterior,5,10,0.5,17.1850548,0.25,Homo sapiens,Buriat
+NMNH278709,Premolar,5,8,0.625,17.1850548,0.25,Homo sapiens,Buriat
+NMNH278710,Anterior,0,12,0,20.9916644,0.5,Homo sapiens,Buriat
+NMNH278710,Posterior,0,12,0,20.9916644,0.5,Homo sapiens,Buriat
+NMNH278710,Premolar,0,8,0,20.9916644,0.5,Homo sapiens,Buriat
+NMNH278711,Anterior,0,12,0,33.426589,0.5,Homo sapiens,Buriat
+NMNH278711,Posterior,2,11,0.181818181818182,33.426589,0.5,Homo sapiens,Buriat
+NMNH278711,Premolar,0,8,0,33.426589,0.5,Homo sapiens,Buriat
+NMNH278712,Anterior,0,11,0,31.6139178,0.25,Homo sapiens,Buriat
+NMNH278712,Posterior,2,11,0.181818181818182,31.6139178,0.25,Homo sapiens,Buriat
+NMNH278712,Premolar,1,8,0.125,31.6139178,0.25,Homo sapiens,Buriat
+NMNH278713,Anterior,0,12,0,17.1850548,0.25,Homo sapiens,(Buriat) Chinese?
+NMNH278713,Posterior,0,11,0,17.1850548,0.25,Homo sapiens,(Buriat) Chinese?
+NMNH278713,Premolar,0,8,0,17.1850548,0.25,Homo sapiens,(Buriat) Chinese?
+NMNH278716,Anterior,0,12,0,18.7076986,0.5,Homo sapiens,Buriat
+NMNH278716,Posterior,0,12,0,18.7076986,0.5,Homo sapiens,Buriat
+NMNH278716,Premolar,0,8,0,18.7076986,0.5,Homo sapiens,Buriat
+NMNH283606,Anterior,0,12,0,27.5897877,0.75,Homo sapiens,Buriat
+NMNH283606,Posterior,0,12,0,27.5897877,0.75,Homo sapiens,Buriat
+NMNH283606,Premolar,0,8,0,27.5897877,0.75,Homo sapiens,Buriat
+NMNH283607,Anterior,12,12,1,55,0.75,Homo sapiens,Buriat
+NMNH283607,Posterior,8,8,1,55,0.75,Homo sapiens,Buriat
+NMNH283607,Premolar,8,8,1,55,0.75,Homo sapiens,Buriat
+NMNH283609a,Anterior,0,12,0,29.8737534,0.75,Homo sapiens,Buriat
+NMNH283609a,Posterior,0,12,0,29.8737534,0.75,Homo sapiens,Buriat
+NMNH283609a,Premolar,0,8,0,29.8737534,0.75,Homo sapiens,Buriat
+NMNH283613,Anterior,0,12,0,25.3058219,0.75,Homo sapiens,Buriat
+NMNH283613,Posterior,0,12,0,25.3058219,0.75,Homo sapiens,Buriat
+NMNH283613,Premolar,0,8,0,25.3058219,0.75,Homo sapiens,Buriat
+NMNH283615,Anterior,0,12,0,40,0.75,Homo sapiens,Buriat
+NMNH283615,Posterior,1,12,0.083333333333333,40,0.75,Homo sapiens,Buriat
+NMNH283615,Premolar,0,8,0,40,0.75,Homo sapiens,Buriat
+NMNH329778,Anterior,0,12,0,18.6050198,0.25,Homo sapiens,Australian aboriginie
+NMNH329778,Posterior,0,13,0,18.6050198,0.25,Homo sapiens,Australian aboriginie
+NMNH329778,Premolar,0,8,0,18.6050198,0.25,Homo sapiens,Australian aboriginie
+NMNH329779,Anterior,2,12,0.166666666666667,40.1730454,0.75,Homo sapiens,Australian aboriginie
+NMNH329779,Posterior,0,12,0,40.1730454,0.75,Homo sapiens,Australian aboriginie
+NMNH329779,Premolar,0,8,0,40.1730454,0.75,Homo sapiens,Australian aboriginie
+NMNH330604,Anterior,0,12,0,21.4260243,0.75,Homo sapiens,Australian aboriginie
+NMNH330604,Posterior,0,12,0,21.4260243,0.75,Homo sapiens,Australian aboriginie
+NMNH330604,Premolar,0,8,0,21.4260243,0.75,Homo sapiens,Australian aboriginie
+NMNH330605,Anterior,0,6,0,40,0.75,Homo sapiens,Australian aboriginie
+NMNH330605,Posterior,2,3,0.666666666666667,40,0.75,Homo sapiens,Australian aboriginie
+NMNH330605,Premolar,0,4,0,40,0.75,Homo sapiens,Australian aboriginie
+NMNH330606,Anterior,0,6,0,40,0.25,Homo sapiens,Australian aboriginie
+NMNH330606,Posterior,2,4,0.5,40,0.25,Homo sapiens,Australian aboriginie
+NMNH330606,Premolar,1,4,0.25,40,0.25,Homo sapiens,Australian aboriginie
+NMNH330607,Anterior,2,3,0.666666666666667,34.7480369,0.5,Homo sapiens,Australian aboriginie
+NMNH330607,Posterior,0,3,0,34.7480369,0.5,Homo sapiens,Australian aboriginie
+NMNH330607,Premolar,1,2,0.5,34.7480369,0.5,Homo sapiens,Australian aboriginie
+NMNH331242,Anterior,2,12,0.166666666666667,31.40804,0.75,Homo sapiens,Australian aboriginie
+NMNH331242,Posterior,0,12,0,31.40804,0.75,Homo sapiens,Australian aboriginie
+NMNH331242,Premolar,0,8,0,31.40804,0.75,Homo sapiens,Australian aboriginie
+NMNH331243,Anterior,0,12,0,39.0880437,0.75,Homo sapiens,Australian aboriginie
+NMNH331243,Posterior,0,12,0,39.0880437,0.75,Homo sapiens,Australian aboriginie
+NMNH331243,Premolar,0,8,0,39.0880437,0.75,Homo sapiens,Australian aboriginie
+NMNH344711,Anterior,0,12,0,33.1440427,0.75,Homo sapiens,Australian aboriginie
+NMNH344711,Posterior,1,12,0.083333333333333,33.1440427,0.75,Homo sapiens,Australian aboriginie
+NMNH344711,Premolar,1,8,0.125,33.1440427,0.75,Homo sapiens,Australian aboriginie
+NMNH344712,Anterior,0,11,0,24.0300284,0.5,Homo sapiens,Australian aboriginie
+NMNH344712,Posterior,0,12,0,24.0300284,0.5,Homo sapiens,Australian aboriginie
+NMNH344712,Premolar,0,7,0,24.0300284,0.5,Homo sapiens,Australian aboriginie
+NMNH344713,Anterior,0,6,0,33.7950437,0.25,Homo sapiens,Australian aboriginie
+NMNH344713,Posterior,0,6,0,33.7950437,0.25,Homo sapiens,Australian aboriginie
+NMNH344713,Premolar,2,4,0.5,33.7950437,0.25,Homo sapiens,Australian aboriginie
+NMNH344714,Anterior,0,12,0,29.8890376,0.25,Homo sapiens,Australian aboriginie
+NMNH344714,Posterior,0,12,0,29.8890376,0.25,Homo sapiens,Australian aboriginie
+NMNH344714,Premolar,0,8,0,29.8890376,0.25,Homo sapiens,Australian aboriginie
+NMNH344715,Anterior,0,12,0,32.4930417,0.25,Homo sapiens,Australian aboriginie
+NMNH344715,Posterior,2,12,0.166666666666667,32.4930417,0.25,Homo sapiens,Australian aboriginie
+NMNH344715,Premolar,0,8,0,32.4930417,0.25,Homo sapiens,Australian aboriginie
+NMNH350096,Anterior,0,12,0,36.3990478,0.75,Homo sapiens,Australian aboriginie
+NMNH350096,Posterior,0,12,0,36.3990478,0.75,Homo sapiens,Australian aboriginie
+NMNH350096,Premolar,0,8,0,36.3990478,0.75,Homo sapiens,Australian aboriginie
+NMNH350097,Anterior,0,12,0,26.8510328,0.75,Homo sapiens,Australian aboriginie
+NMNH350097,Posterior,0,12,0,26.8510328,0.75,Homo sapiens,Australian aboriginie
+NMNH350097,Premolar,0,8,0,26.8510328,0.75,Homo sapiens,Australian aboriginie
+NMNH350098,Anterior,0,12,0,24.6086959,0.75,Homo sapiens,Australian aboriginie
+NMNH350098,Posterior,0,12,0,24.6086959,0.75,Homo sapiens,Australian aboriginie
+NMNH350098,Premolar,0,8,0,24.6086959,0.75,Homo sapiens,Australian aboriginie
+NMNH380429,Anterior,9,12,0.75,27.417015,0.75,Homo sapiens,Australian aboriginie
+NMNH380429,Posterior,9,11,0.818181818181818,27.417015,0.75,Homo sapiens,Australian aboriginie
+NMNH380429,Premolar,8,8,1,27.417015,0.75,Homo sapiens,Australian aboriginie
+NMNH380430,Anterior,4,12,0.333333333333333,29.8890376,0.25,Homo sapiens,Australian aboriginie
+NMNH380430,Posterior,5,12,0.416666666666667,29.8890376,0.25,Homo sapiens,Australian aboriginie
+NMNH380430,Premolar,0,8,0,29.8890376,0.25,Homo sapiens,Australian aboriginie
+NMNH380431,Anterior,9,12,0.75,51.9,0.75,Homo sapiens,Australian aboriginie
+NMNH380431,Posterior,9,12,0.75,51.9,0.75,Homo sapiens,Australian aboriginie
+NMNH380431,Premolar,5,8,0.625,51.9,0.75,Homo sapiens,Australian aboriginie
+NMNH380447,Anterior,0,12,0,23.3790273,0.75,Homo sapiens,Australian aboriginie
+NMNH380447,Posterior,2,12,0.166666666666667,23.3790273,0.75,Homo sapiens,Australian aboriginie
+NMNH380447,Premolar,1,8,0.125,23.3790273,0.75,Homo sapiens,Australian aboriginie
+NMNH380448,Anterior,0,12,0,15.7840154,0.25,Homo sapiens,Australian aboriginie
+NMNH380448,Posterior,0,12,0,15.7840154,0.25,Homo sapiens,Australian aboriginie
+NMNH380448,Premolar,0,8,0,15.7840154,0.25,Homo sapiens,Australian aboriginie
+NMNH380449,Anterior,1,6,0.166666666666667,25.259697,0.75,Homo sapiens,Australian aboriginie
+NMNH380449,Posterior,0,6,0,25.259697,0.75,Homo sapiens,Australian aboriginie
+NMNH380449,Premolar,0,4,0,25.259697,0.75,Homo sapiens,Australian aboriginie
+NMNH380450,Anterior,1,6,0.166666666666667,28.5870355,0.75,Homo sapiens,Australian aboriginie
+NMNH380450,Posterior,0,6,0,28.5870355,0.75,Homo sapiens,Australian aboriginie
+NMNH380450,Premolar,0,4,0,28.5870355,0.75,Homo sapiens,Australian aboriginie
+NMNH380451,Anterior,1,6,0.166666666666667,38.2200424,0.75,Homo sapiens,Australian aboriginie
+NMNH380451,Posterior,1,7,0.142857142857143,38.2200424,0.75,Homo sapiens,Australian aboriginie
+NMNH380451,Premolar,0,4,0,38.2200424,0.75,Homo sapiens,Australian aboriginie
+NMNH380452,Anterior,0,6,0,31.1910396,0.75,Homo sapiens,Australian aboriginie
+NMNH380452,Posterior,0,6,0,31.1910396,0.75,Homo sapiens,Australian aboriginie
+NMNH380452,Premolar,0,4,0,31.1910396,0.75,Homo sapiens,Australian aboriginie
+NMNH380453,Anterior,0,12,0,32.2760413,0.75,Homo sapiens,Australian aboriginie
+NMNH380453,Posterior,0,12,0,32.2760413,0.75,Homo sapiens,Australian aboriginie
+NMNH380453,Premolar,0,8,0,32.2760413,0.75,Homo sapiens,Australian aboriginie
+NMNH380464,Anterior,0,12,0,33.7950437,0.75,Homo sapiens,Australian aboriginie
+NMNH380464,Posterior,0,12,0,33.7950437,0.75,Homo sapiens,Australian aboriginie
+NMNH380464,Premolar,0,8,0,33.7950437,0.75,Homo sapiens,Australian aboriginie
+NMNH380466,Anterior,0,9,0,37.2670492,0.25,Homo sapiens,Australian aboriginie
+NMNH380466,Posterior,0,9,0,37.2670492,0.25,Homo sapiens,Australian aboriginie
+NMNH380466,Premolar,0,6,0,37.2670492,0.25,Homo sapiens,Australian aboriginie
+PMN1389,Anterior,0,6,0,28.5870355,0.75,Homo sapiens,Australian aboriginie
+PMN1389,Posterior,0,6,0,28.5870355,0.75,Homo sapiens,Australian aboriginie
+PMN1389,Premolar,0,4,0,28.5870355,0.75,Homo sapiens,Australian aboriginie
+PMN1390,Anterior,0,12,0,23.3790273,0.25,Homo sapiens,Australian aboriginie
+PMN1390,Posterior,0,12,0,23.3790273,0.25,Homo sapiens,Australian aboriginie
+PMN1390,Premolar,0,8,0,23.3790273,0.25,Homo sapiens,Australian aboriginie
+PMN1496,Anterior,0,6,0,25.9830314,0.75,Homo sapiens,Australian aboriginie
+PMN1496,Posterior,0,6,0,25.9830314,0.75,Homo sapiens,Australian aboriginie
+PMN1496,Premolar,0,4,0,25.9830314,0.75,Homo sapiens,Australian aboriginie
+PMN1497,Anterior,0,6,0,25.1150301,0.75,Homo sapiens,Australian aboriginie
+PMN1497,Posterior,0,6,0,25.1150301,0.75,Homo sapiens,Australian aboriginie
+PMN1497,Premolar,0,4,0,25.1150301,0.75,Homo sapiens,Australian aboriginie
+PMN3064,Anterior,0,6,0,23.3790273,0.75,Homo sapiens,Australian aboriginie
+PMN3064,Posterior,0,5,0,23.3790273,0.75,Homo sapiens,Australian aboriginie
+PMN3064,Premolar,0,4,0,23.3790273,0.75,Homo sapiens,Australian aboriginie
+PMN3064A,Anterior,0,12,0,37.7860417,0.75,Homo sapiens,Australian aboriginie
+PMN3064A,Posterior,0,12,0,37.7860417,0.75,Homo sapiens,Australian aboriginie
+PMN3064A,Premolar,0,8,0,37.7860417,0.75,Homo sapiens,Australian aboriginie
+PMN3065,Anterior,0,6,0,28.2850164,0.5,Homo sapiens,Australian aboriginie
+PMN3065,Posterior,0,6,0,28.2850164,0.5,Homo sapiens,Australian aboriginie
+PMN3065,Premolar,0,4,0,28.2850164,0.5,Homo sapiens,Australian aboriginie
+PMN7459,Anterior,4,12,0.333333333333333,25.5490307,0.75,Homo sapiens,Australian aboriginie
+PMN7459,Posterior,1,12,0.083333333333333,25.5490307,0.75,Homo sapiens,Australian aboriginie
+PMN7459,Premolar,0,8,0,25.5490307,0.75,Homo sapiens,Australian aboriginie
+UCD2(1)b,Anterior,0,8,0,37.7132289,0.5,Homo sapiens,Native Californian
+UCD2(1)b,Posterior,0,9,0,37.7132289,0.5,Homo sapiens,Native Californian
+UCD2(1)b,Premolar,0,6,0,37.7132289,0.5,Homo sapiens,Native Californian
+UCD2(10.1)b,Anterior,2,12,0.166666666666667,37.3306024,0.5,Homo sapiens,Native Californian
+UCD2(10.1)b,Posterior,1,11,0.090909090909091,37.3306024,0.5,Homo sapiens,Native Californian
+UCD2(10.1)b,Premolar,2,8,0.25,37.3306024,0.5,Homo sapiens,Native Californian
+UCD2(16)b,Anterior,0,12,0,36.9479759,0.5,Homo sapiens,Native Californian
+UCD2(16)b,Posterior,1,12,0.083333333333333,36.9479759,0.5,Homo sapiens,Native Californian
+UCD2(16)b,Premolar,0,8,0,36.9479759,0.5,Homo sapiens,Native Californian
+UCD2(2)b,Anterior,0,11,0,25.9155783,0.5,Homo sapiens,Native Californian
+UCD2(2)b,Posterior,0,11,0,25.9155783,0.5,Homo sapiens,Native Californian
+UCD2(2)b,Premolar,0,8,0,25.9155783,0.5,Homo sapiens,Native Californian
+UCD2(3a)b,Anterior,0,12,0,40.3916145,0.5,Homo sapiens,Native Californian
+UCD2(3a)b,Posterior,1,10,0.1,40.3916145,0.5,Homo sapiens,Native Californian
+UCD2(3a)b,Premolar,0,8,0,40.3916145,0.5,Homo sapiens,Native Californian
+UCD2(6)b,Anterior,0,12,0,36.1827229,0.5,Homo sapiens,Native Californian
+UCD2(6)b,Posterior,0,12,0,36.1827229,0.5,Homo sapiens,Native Californian
+UCD2(6)b,Premolar,0,8,0,36.1827229,0.5,Homo sapiens,Native Californian
+UCD2(8)b,Anterior,1,12,0.083333333333333,40.3916145,0.5,Homo sapiens,Native Californian
+UCD2(8)b,Posterior,2,12,0.166666666666667,40.3916145,0.5,Homo sapiens,Native Californian
+UCD2(8)b,Premolar,2,8,0.25,40.3916145,0.5,Homo sapiens,Native Californian
+UCD2(L-23-1)b,Anterior,1,13,0.076923076923077,33.8869639,0.5,Homo sapiens,Native Californian
+UCD2(L-23-1)b,Posterior,0,12,0,33.8869639,0.5,Homo sapiens,Native Californian
+UCD2(L-23-1)b,Premolar,0,8,0,33.8869639,0.5,Homo sapiens,Native Californian
+UVS1,Anterior,0,12,0,22.1568264,0.75,Homo sapiens,Khoi-San
+UVS1,Posterior,0,12,0,22.1568264,0.75,Homo sapiens,Khoi-San
+UVS1,Premolar,0,8,0,22.1568264,0.75,Homo sapiens,Khoi-San
+UVS10,Anterior,0,12,0,24.7839144,0.75,Homo sapiens,Khoi-San
+UVS10,Posterior,0,12,0,24.7839144,0.75,Homo sapiens,Khoi-San
+UVS10,Premolar,0,8,0,24.7839144,0.75,Homo sapiens,Khoi-San
+UVS101,Anterior,0,12,0,21.7815281,0.25,Homo sapiens,Khoi-San
+UVS101,Posterior,0,12,0,21.7815281,0.25,Homo sapiens,Khoi-San
+UVS101,Premolar,0,8,0,21.7815281,0.25,Homo sapiens,Khoi-San
+UVS102,Anterior,0,12,0,27.0357042,0.25,Homo sapiens,Khoi-San
+UVS102,Posterior,0,12,0,27.0357042,0.25,Homo sapiens,Khoi-San
+UVS102,Premolar,0,8,0,27.0357042,0.25,Homo sapiens,Khoi-San
+UVS104,Anterior,0,12,0,21.7815281,0.75,Homo sapiens,Khoi-San
+UVS104,Posterior,0,12,0,21.7815281,0.75,Homo sapiens,Khoi-San
+UVS104,Premolar,0,8,0,21.7815281,0.75,Homo sapiens,Khoi-San
+UVS105,Anterior,0,9,0,41.1374939,0.25,Homo sapiens,Khoi-San
+UVS105,Posterior,3,10,0.3,41.1374939,0.25,Homo sapiens,Khoi-San
+UVS105,Premolar,2,8,0.25,41.1374939,0.25,Homo sapiens,Khoi-San
+UVS119,Anterior,0,6,0,21.7815281,0.75,Homo sapiens,Khoi-San
+UVS119,Posterior,0,6,0,21.7815281,0.75,Homo sapiens,Khoi-San
+UVS119,Premolar,0,4,0,21.7815281,0.75,Homo sapiens,Khoi-San
+UVS12,Anterior,0,6,0,28.5368973,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS12,Posterior,0,6,0,28.5368973,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS12,Premolar,0,4,0,28.5368973,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS125,Anterior,10,12,0.833333333333333,34.7,0.25,Homo sapiens,Khoi-San
+UVS125,Posterior,12,12,1,34.7,0.25,Homo sapiens,Khoi-San
+UVS125,Premolar,8,8,1,34.7,0.25,Homo sapiens,Khoi-San
+UVS142,Anterior,0,12,0,17.6532469,0.25,Homo sapiens,Khoi-San
+UVS142,Posterior,0,12,0,17.6532469,0.25,Homo sapiens,Khoi-San
+UVS142,Premolar,0,8,0,17.6532469,0.25,Homo sapiens,Khoi-San
+UVS2,Anterior,0,12,0,28.5368973,0.25,Homo sapiens,Khoi-San
+UVS2,Posterior,0,12,0,28.5368973,0.25,Homo sapiens,Khoi-San
+UVS2,Premolar,0,8,0,28.5368973,0.25,Homo sapiens,Khoi-San
+UVS22,Anterior,7,12,0.583333333333333,24.4086161,0.75,Homo sapiens,Khoi-San
+UVS22,Posterior,4,12,0.333333333333333,24.4086161,0.75,Homo sapiens,Khoi-San
+UVS22,Premolar,0,8,0,24.4086161,0.75,Homo sapiens,Khoi-San
+UVS24,Anterior,2,9,0.222222222222222,28.161599,0.75,Homo sapiens,Khoi-San
+UVS24,Posterior,0,12,0,28.161599,0.75,Homo sapiens,Khoi-San
+UVS24,Premolar,0,8,0,28.161599,0.75,Homo sapiens,Khoi-San
+UVS28,Anterior,3,6,0.5,34.7,0.25,Homo sapiens,Khoi-San
+UVS28,Posterior,2,5,0.4,34.7,0.25,Homo sapiens,Khoi-San
+UVS28,Premolar,1,4,0.25,34.7,0.25,Homo sapiens,Khoi-San
+UVS29,Anterior,0,12,0,19.5297384,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS29,Posterior,0,12,0,19.5297384,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS29,Premolar,0,8,0,19.5297384,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS3,Anterior,0,12,0,26.6604059,0.75,Homo sapiens,Khoi-San
+UVS3,Posterior,0,12,0,26.6604059,0.75,Homo sapiens,Khoi-San
+UVS3,Premolar,0,8,0,26.6604059,0.75,Homo sapiens,Khoi-San
+UVS34,Anterior,0,6,0,27.0357042,0.5,Homo sapiens,Khoi-San or bushman half-caste
+UVS34,Posterior,0,6,0,27.0357042,0.5,Homo sapiens,Khoi-San or bushman half-caste
+UVS34,Premolar,0,4,0,27.0357042,0.5,Homo sapiens,Khoi-San or bushman half-caste
+UVS38,Anterior,0,12,0,23.2827213,0.25,Homo sapiens,Khoi-San
+UVS38,Posterior,0,12,0,23.2827213,0.25,Homo sapiens,Khoi-San
+UVS38,Premolar,0,8,0,23.2827213,0.25,Homo sapiens,Khoi-San
+UVS40,Anterior,0,12,0,28.5757213,0.25,Homo sapiens,Khoi-San
+UVS40,Posterior,0,12,0,28.5757213,0.25,Homo sapiens,Khoi-San
+UVS40,Premolar,0,8,0,28.5757213,0.25,Homo sapiens,Khoi-San
+UVS42,Anterior,0,6,0,23.2827213,0.75,Homo sapiens,Khoi-San
+UVS42,Posterior,0,6,0,23.2827213,0.75,Homo sapiens,Khoi-San
+UVS42,Premolar,0,4,0,23.2827213,0.75,Homo sapiens,Khoi-San
+UVS45,Anterior,8,12,0.666666666666667,39.4,0.25,Homo sapiens,Khoi-San
+UVS45,Posterior,6,8,0.75,39.4,0.25,Homo sapiens,Khoi-San
+UVS45,Premolar,6,8,0.75,39.4,0.25,Homo sapiens,Khoi-San
+UVS46,Anterior,0,12,0,16.9026504,0.25,Homo sapiens,Khoi-San
+UVS46,Posterior,0,12,0,16.9026504,0.25,Homo sapiens,Khoi-San
+UVS46,Premolar,0,8,0,16.9026504,0.25,Homo sapiens,Khoi-San
+UVS49,Anterior,1,13,0.076923076923077,27.4110024,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS49,Posterior,0,12,0,27.4110024,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS49,Premolar,0,8,0,27.4110024,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS52,Anterior,0,12,0,31.1639853,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS52,Posterior,0,12,0,31.1639853,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS52,Premolar,0,8,0,31.1639853,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS55,Anterior,10,11,0.909090909090909,30.5,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS55,Posterior,6,8,0.75,30.5,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS55,Premolar,8,8,1,30.5,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS56,Anterior,12,12,1,41.1,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS56,Posterior,8,10,0.8,41.1,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS56,Premolar,7,8,0.875,41.1,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS57,Anterior,0,12,0,22.1568264,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS57,Posterior,0,12,0,22.1568264,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS57,Premolar,2,8,0.25,22.1568264,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS58,Anterior,0,6,0,24.0333178,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS58,Posterior,0,6,0,24.0333178,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS58,Premolar,0,4,0,24.0333178,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS59,Anterior,0,12,0,18.7791418,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS59,Posterior,0,12,0,18.7791418,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS59,Premolar,0,8,0,18.7791418,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS60,Anterior,0,6,0,21.7815281,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS60,Posterior,0,6,0,21.7815281,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS60,Premolar,0,4,0,21.7815281,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS62,Anterior,0,6,0,19.5297384,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS62,Posterior,0,6,0,19.5297384,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS62,Premolar,0,4,0,19.5297384,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS63,Anterior,4,12,0.333333333333333,28.9121956,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS63,Posterior,4,12,0.333333333333333,28.9121956,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS63,Premolar,2,8,0.25,28.9121956,0.25,Homo sapiens,Khoi-San or bushman half-caste
+UVS67,Anterior,1,12,0.083333333333333,25.1592127,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS67,Posterior,0,12,0,25.1592127,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS67,Premolar,0,8,0,25.1592127,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS68,Anterior,0,12,0,17.6532469,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS68,Posterior,0,12,0,17.6532469,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS68,Premolar,0,8,0,17.6532469,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS76,Anterior,0,12,0,22.1568264,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS76,Posterior,0,12,0,22.1568264,0.75,Homo sapiens,Khoi-San or bushman half-caste
+UVS76,Premolar,0,8,0,22.1568264,0.75,Homo sapiens,Khoi-San or bushman half-caste
