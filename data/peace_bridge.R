@@ -97,7 +97,9 @@ months_to_request <- months_to_request %>%
   group_by(year, month, Day, direction, vehicle) %>%
   summarize(volume = sum(volume))
 
-monthly_volumes <- group_by(months_to_request, year, month, direction, vehicle) %>%
+## Compute volume total for each year, month, and vehicle type
+## So, we're summing over day and direction here
+monthly_volumes <- group_by(months_to_request, year, month, vehicle) %>%
   summarize(volume = sum(volume),
             .groups = "drop"
             ) %>%
