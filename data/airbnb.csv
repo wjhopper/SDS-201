@@ -1,4 +1,4 @@
-Host.Id,Host.Since,Name,Neighbourhood,Property.Type,Room.Type,Zipcode,Beds,Number.Of.Reviews,Price,Review.Scores.Rating
+Host.Id,Host.Since,Name,Neighbourhood,Property.Type,Room.Type,Zipcode,Beds,Number.Of.Reviews,Price,Avg.Rating
 5162530,NA,1 Bedroom in Prime Williamsburg,Brooklyn,Apartment,Entire home/apt,11249,1,0,145,NA
 33134899,NA,"Sunny, Private room in Bushwick",Brooklyn,Apartment,Private room,11206,1,1,37,NA
 39608626,NA,Sunny Room in Harlem,Manhattan,Apartment,Private room,10032,1,1,28,NA
