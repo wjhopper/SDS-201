@@ -54,6 +54,9 @@ for (i in 1:nrow(months_to_request)) {
             )
   
   if (r$status_code==200) {
+    
+    cat(paste0("Processing ", req_month, "/", req_year, "\n"))
+    
     ## extract second tables from page, convert to data frame
     raw_data_table <- r %>%
       read_html() %>%
